@@ -1,0 +1,178 @@
+heal, steep, hid, new, light, tub, know, mule, buy, step,
+
+fat, full, far, fed,
+feet, feat, fit, for,
+vie, view, vague, vote,
+vat, vase, vice, vogue,
+
+1. the fog, the fire, the veil, to vie, the foe,
+2. so far, to fear, the phase, to feel, to fight,
+3. the fate, a vice, the vogue, to fit, the vet,
+4. to view, so vague, a fit, to vote, to fail,
+5. to fill, the fuel, to feed, her face, the vat,
+
+1. He fell off. He fell off the pole. He fell off the light pole.
+2. Feed the mule. Feed the cat. Feed the ape.
+3. Face the light. Face the fire. Can you face the fire.
+4. Vie with Kate. Vie with us. Vie with her.
+5. The hog ate the fat. The mule was fat. The pig was fat.
+6. It is the vogue. It is the vogue to vote. It is the vogue today.
+7. She has a veil. She wore a veil. She tore her veil.
+8. We fed the mule. We fed the pig. We fed the ape.
+9. The vat is full. The vat has fuel. Fill up the vat with fuel.
+10. He would fail. He would fail to vote. He would fail to vote today.
+
+1. if, if I, if he, if you, if the,
+2. of, of the,
+3. have, have the, have a, have you,
+4. inform, information, very,
+
+1. if, information, where, inform, if, could,
+2. would, when, very, of, what, have,
+3. of, if, open, have, inform, today,
+4. very, what, of, if, inform, remember,
+5. inform, have, with, very, could, if,
+
+1. You have to share with her. He will have to feed the dog. We would have to
+ask her to do it.
+2. Inform us of his fear. Will you inform us? Inform her when you fail.
+3. He will have the information. He will inform you of it. I will mail it if you
+say so.
+4. She has some information. I fear the information. The information is bad.
+5. I will use it if Kate has a car. If she were to die, it would be sad. She
+will file the deed if she has to.
+6. It is very, very late. The soup is very hot. It is in very bad shape.
+7. She ate a piece of pie. We were to share some of it. We had some of the pie.
+8. Cut a piece of pie for me. Will he inform us of it? Have you the information?
+9. Mail the letter if you can. I will face her if you do. I will have tea if you
+do.
+10. Have some of the soup. He has some fear of the dog. Pay some of the bill.
+11. I will buy if if I can wear it. I will do it if I have to. He will ship it
+if I sell it.
+12. Have a nice day. Can you have a new coat? Do you have a new car?
+13. If he stole it, he still has it. If he has the information, tell me. He will
+fail if he has any fear.
+14. We have the file here. Will you have the meat rare? You do have the new car.
+15. If the cat is here, feed it. If the rat is here, kill it. If the car is
+here, he has it.
+16. Have you had a meal? Have you hit the cat? Have you set it up?
+
+1. scare, skid, scab, scoff, skull, scat
+2. scar, skill, skit, score, scuff, skate,
+3. sleep, slur, slat, slip, slap, sleet,
+4. slight, slop, slit, slut, slug, slurp,
+
+1. He would scoff at it. She had a scar. Did you see the skit?
+2. He did sleep here. Slip it in here. It slid to the side.
+3. Pull the scab off. Would the cat scare you? He will scuff his shoe.
+4. Ray is a slob. Put it in the slot. He will slide it shut.
+5. The car was in a skid. Skate to the store. The score was a tie.
+6. The sleet fell today. Slap her in the face. Eat a slice of pie.
+7. He hit his skull with the skate. He will skip the rope. Ray has some skill.
+8. She wore a slip. Pour the new slab. Feed the slop to the pig.
+9. He will scuff it. The skit is vague. The slit will rip.
+10. The slug is slow. Did you slurp your beer? He said she is a slut.
+
+----
+
+1. Did the new coat fit you?
+2. The fat pig ate the pie.
+3. Did you feed the pet cat today?
+4. You were at the show with Phil?
+5. Put the rose in the vase.
+6. Fill the cup with hot tea.
+7. Did you vote for Kay or Sue?
+8. We knew he was right.
+9. The view is so nice.
+10. He fed the mule some hay for his meal.
+11. The big bug bit my feet.
+12. Is it safe to read the letter to the Pope?
+13. Did you feed the pig some slop?
+14. She wore a light veil to the show.
+15. Did the new shoe fit?
+16. Can you lug the big vat of fuel for the company?
+17. Did you see Todd steal the vase?
+18. She has the lead role in the new show.
+19. Is the sailboat for sale?
+20. I can hear the bell.
+21. I hate to be in a fog.
+22. We keep it in the big steel file.
+23. We know who set the fire.
+24. When did Dad cut his face?
+25. Did you put the pet cat in the vet?
+26. It was a new phase for the tot.
+27. Tess had a pair of sheep to sell.
+28. The fort is for the tot.
+29. Doug will tell a tale to Dad.
+30. Will you share the pie with Kate?
+31. The staircase is steep.
+32. We need some fuel for the fire.
+33. Her Dad is a war vet.
+34. Her veil is in vogue.
+35. I will vote for Matt today.
+36. She sat by the hot fire.
+37. Eat a hot meal so you can stay fit.
+38. May I be some help to you today?
+39. Did you file the letter for the credit company?
+40. Will you eat a roll or a pear with us?
+41. Is Dad ate some pie with us at the pub.
+42. I fell sad when I see a sad show.
+43. What size is his new suit?
+44. Do you fear the fog?
+45. When did he tear her lace veil?
+46. Which way is it to the shore?
+47. What did you buy at the store today?
+48. He knew which file he could toss.
+49. What do you know about the new show?
+50. Her maid was late today.
+51. Did you hear the male cat purr?
+52. He hit his head with a steel pipe.
+53. Did you buy the new red car at the sale?
+54. I will buy a boat in a month.
+55. Did you remember to vote?
+56. If you have the information will you share it with us?
+57. Will you inform Kay to meet me at the pub.
+58. Do you have any information for Dad.
+59. I will have some pie if you do.
+60. The show made me feel very sad.
+61. We will hire a new maid today.
+62. Inform us if you know about it.
+63. I will have my soup very hot.
+64. You know you will have to face the mess today.
+65. Have you made a bet?
+66. If you are at the store today you will buy a new mop.
+67. The company will have to consider it.
+68. Will you have her type up the letter for me?
+69. What was the score?
+70. Do you have the company file with you?
+71. I know the steel company is open.
+72. Have you had some stew to eat?
+73. Do you know if it is the right day to do it?
+74. Will you have some hot soup with us?
+75. Do you have a fear of the fog?
+76. I wore a new veil to the show.
+77. Inform her if you are mad about it.
+78. Do you have the credit information for the company?
+79. The show was very late.
+80. May I pour you some hot tea?
+81. Did the bear scare you?
+82. Have Ted put the wet pole in the boat.
+83. I will skate to the store.
+84. If you see Kay inform her of the fire.
+85. Do you have the company information for her Dad?
+86. She was very mad at Matt today.
+87. Do you consider it to be a hit?
+88. Help her if you can.
+89. I will inform you about the deal with the credit company in a month.
+90. Ask her if she is sad.
+91. We will meet his Dad at the pub for a beer.
+92. When can you pay the bail?
+93. Do you consider it a steal?
+94. Did Dad remember to pay the maid today?
+95. It is very far to the seashore.
+96. Did the slip fit Kate?
+97. When did you fire the maid?
+98. The view at the top of the beauty is very nice.
+99. Did she pour the slab for you?
+100. The information was very dull.
+101. What is the rule here?

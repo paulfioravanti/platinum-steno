@@ -1,0 +1,357 @@
+1. ugly
+2. suspect
+3. cozy
+4. prefer
+5. married
+6. tightly
+7. mover
+8. coffee
+9. draw
+10. favor
+
+you, it, he, the, I,
+were, with, to the, would, had,
+were you, with you, with the, with a, to the, at the, would you, would the,
+would he, had the, had you, had a, had he,
+is, are, be, could, would, can, company,
+is it, is the, is he, it is, he is, are you, you are, we are, to be, would be,
+can be, can the, can I, can you, can he, can a,
+will, letter, remember, today, open,
+will the, will you, will he, will be, will I, will a, he will, you will, we
+will, it will, I will,
+what, when, which, where, about, did,
+what is, when is, when the, which is, where is, where the, about the, about a,
+did the, did he, did I, did you, did a,
+in, some, any, ask, help, month, credit, consider,
+in a, in the,
+if, of, have, inform, information, very,
+if I, if he, if you, if the, of the, have the, have a, have you,
+many, this, until, well, account,
+so many, this is, this will, he can, you can, we can, it can, she can, I can, I
+am,
+on, and, yes, no, sir, yes, sir, been, not, but, why, accident, cannot,
+objection,
+on the, and I, and you, and the, and a, and he, are not, is not, did not, were
+not, will not, have not, had not, cannot, do not, why not, but the,
+good, go, going, judge, gentleman, gentlemen, under, understand,
+to go, will go, can go, would go, I go, you go,
+should, much, shall, usual, unusual, receipt, purchase, under, understand,
+should be, should go, should I, should you, should not, very much, too much, so
+much, he shall, we shall, you shall, I shall,
+knowledge, acknowledge, furnish, enter, suggest, suggestion, after, order,
+water, paper, person,
+I was, he was, she was, this was, when was, what was, which was, who was, why
+was, that was, how was, it was, they were, you were, we were, who were, what
+were, how were, which were, when were, there were, that were, why were,
+regular, advertise, satisfy,
+you have, we have, did have, would have, should have, to have, will have, I
+have, did have, do have,
+tonight, business, advice, advise, together, necessary, correspond,
+correspondence, correspondent, report, Monday, Tuesday, Wednesday, Thursday,
+Friday, Saturday, Sunday,
+that, they, write, wrote, written, writer, think, question,
+that is, that the, that will, they are, they will, they are, they can, they go,
+even, evening, morning, particular, police car, recognize, possible, finance,
+financial, convenient, convenience, upon,
+January, February, March, April, May, June, July, August, September, October,
+November, December,
+
+1. can't, aren't, isn't, didn't,
+2. hadn't, hasn't, haven't, shouldn't
+3. weren't, wasn't, wouldn't, won't,
+4. doesn't, don't, couldn't,
+
+1. We can't meet the demand. I can't discuss the matter. Can't you prepare the
+audit?
+2. Aren't the bills due now? We aren't on the roster. Aren't the men in jail?
+3. Isn't it time to leave? Susan isn't feeling very well. Isn't it better to
+lease it?
+4. We didn't intend to leave. Didn't the exercise do any good? Why didn't you
+ask for 50?
+5. He hadn't been on the trip. Hadn't you had that suggestion? He hadn't
+corresponded yet.
+6. Shouldn't you leave by Monday? It shouldn't be late at night. You shouldn't
+be offended.
+7. Weren't the stores open? They weren't going to the race. Weren't you looking
+for 25?
+8. We haven't used that process. Haven't you seen our cabin? They haven't asked
+for a refund.
+9. She couldn't read her notes. Couldn't we get 68 votes? Couldn't you hear the
+siren?
+10. Wouldn't you like to watch? He wouldn't mow the lawn. Wouldn't you need more
+than 75?
+11. I don't believe he has credit. We don't need your money. Don't we need some
+controls?
+12. The bureau won't consider it. Won't you need some guidance? We won't be here
+then.
+13. He hasn't had time to fix it. Hasn't the order been filled? Hasn't she read
+about the play?
+14. He wasn't a hero in the war. The business wasn't successful. Wasn't the
+correspondence filed?
+15. He doesn't have any talent. Doesn't he pay for escrow? He doesn't need 34
+pencils.
+16. You can't start until April. You shouldn't cry about defeat. Bill won't live
+with that.
+
+1. whole, wholly
+2. whole, whopping
+3. whom, whomever
+4. who, whoever,
+5. wrap, wren
+6. wreck, wreak
+7. whose, who's, who is
+
+1. Whose job is it? Ask whose jacket it is.
+2. Whose book does he have? Whose car is it?
+3. Who's calling her now? Who's going to offer it?
+4. Who's sending it? Who's looking at it?
+5. Who is going to divide it? Who is getting the information?
+6. Whom shall I ask? Whom shall we invite?
+7. Tell whomever you like. Send whomever you wish.
+8. Hire whoever is better. Send whoever gets here.
+9. Wrap up the package for me. When will you wrap it up?
+10. Use the new wrapping paper. He wrapped it for mailing.
+11. He ate the whole peach pie. The whole town is upset.
+12. The house is a total wreck. Don't wreck the new car.
+13. He was in a shipwreck. Have you seen a wren?
+14. The troops wrecked havoc. The boy has whooping cough.
+
+1. minute, general, opinion,
+2. machine, discuss, yesterday,
+3. effect, affect
+
+1. affect, general, opinion, machine,
+2. general, minute, particular, discuss,
+3. possible, effect, yesterday, machine,
+4. order, after, opinion, discuss,
+5. effect, upon, recognise, general,
+6. affect, effect, yesterday, discuss,
+7. minute, opinion, machine, general,
+
+1. What effect will the plan have? The general effect is quite good.
+2. Your advice won't have any effect. What was the effect of the order?
+3. Give me one more minute. I will be a minute late.
+4. Take a minute to do it right. I don't have a minute to spare.
+5. In my opinion, she shouldn't go. I don't have my opinion at all.
+6. They wouldn't express an opinion. He wouldn't alter he is opinion.
+7. Generally, I would think so. That is generally a good plan.
+8. His opinions aren't based on fact. The cake took 45 minutes to bake.
+9. How will it affect the company? The cold will affect my plan.
+10. The new law will affect us all. That doesn't affect my plan.
+11. The question is too general. It is general use now.
+12. He sold the old general store. It was a general partnership.
+13. He hurt his thumb yesterday. Yesterday was October 21.
+14. They signed the packet yesterday. She wore her dress yesterday.
+15. The high price is affecting us. The crop was affected by the hail.
+16. The trip took 30 minutes. Yesterday was November 28.
+17. The machine isn't working. Don't break the machine.
+18. I have an expensive machine. Her machine was stolen.
+19. We should discuss the matter. I will discuss it with you.
+20. Did you discuss it with him? They will discuss and give an opinion.
+
+1. glass, glib, glad, gleam,
+2. gland, globe, gloom, glaze,
+3. glove, glue, glitch, glee,
+4. grade, grand, grab, grip
+5. groove, grape, green, gross,
+6. grit, gripe, grove, grind
+
+1. Use a tall vase. Have you been all over the globe?
+2. Use a honey glaze on the ham. Tell him he has glaucoma.
+3. I am glad he won the prize. Did you glean that information?
+4. The polish made it gleam. I found the leaf in the glade.
+5. Can you see in the glare? He laughed with glee.
+6. That is a glob of glue. He won glory playing ball.
+7. He saw a glimmer of light. He joined the global tour.
+8. Don't be so glum. The old house was gloomy.
+9. What grade is Jim in? A great many will vote.
+10. Paint the room green. Put gravy on your potatoes.
+11. Mow the grass for me. He had to grow up quickly.
+12. Greet the statesman. Where is the grave.
+13. Cut a groove in the wood. He sought the Holy Grail.
+14. It is time for the Grim Reaper. Cook the steak on the grill.
+15. The grazing land was for sale. The skies were gray.
+16. Don't be greedy. She entertained in grand style.
+
+1. 1:00, 2:00, 3:00, 4:00,
+2. 5:00, 6:00, 7:00, 8:00,
+3. 9:00, 10:00, 11:00, 12:00
+
+1. 1:00 o'clock, 2:00 o'clock, 3:00 o'clock,
+2. 4:00 o'clock, 5:00 o'clock, 6:00 o'clock
+3. 7:00 o'clock, 8:00 o'clock, 9:00 o'clock
+4. 10:00 o'clock, 11:00 o'clock, 12:00 o'clock
+
+1. 6:30, 4:15, 2:20, 11:45,
+2. 12:45, 8:55, 9:30, 1:05
+
+1. 9:00 a.m., 9:30 a.m.,
+2. 1:00 p.m., 1:45 p.m.,
+3. 11:00 o'clock a.m., 7:00 o'clock p.m.
+
+1. 1:45, 7:30, 2:00,
+2. 5:00 o'clock, 6:25 p.m., 8:45,
+3. 12:00 o'clock, 6:00, 10:20,
+4. 3:50 p.m., 4:15, 7:00 a.m.
+5. 5:47 p.m., 9:36 a.m., 10:52,
+6. 4:16, 7:29 a.m., 11:58
+7. 3:09, 1:11, 6:40
+8. 8:12 p.m., 9:00 o'clock a.m., 3:00
+
+1. He should be here at 3:00 or 3:30.
+2. Will you come home at 6:15 or 6:30?
+3. Work starts at 9:00 o'clock a.m. and ends at 5:00 o'clock p.m.
+4. Mom leaves work at 5:30 and gets home at 5:45 or 6:00 o'clock.
+5. Dad gets home at 7:00 or 8:00 on Mondays and Wednesdays.
+6. The school closes at 3:30 on Fridays.
+7. The train leaves at 4:45 on Tuesdays.
+8. I saw him on Saturday at about 11:00 o'clock a.m.
+9. I got home at 2:30 p.m.
+10. She will be gone at 1:25 p.m.
+11. Will the bus stop here at 9:00 or 9:15?
+12. The store will be open at 10:00 o'clock a.m. and will close at 9:00 o'clock
+p.m.
+13. We will eat dinner at 6:45.
+14. Out class starts at 8:15 a.m.
+15. The party will be at 3:00 o'clock.
+16. Pick her up at 1:35 p.m.
+
+---
+
+1. I don't know what to do about this mess.
+2. I can't believe he is a court reporter.
+3. They weren't fearful about it at all.
+4. He doesn't know very much about it.
+5. They were at the movies with Mom.
+6. We should be at the river by 7:00 a.m.
+7. We hadn't expected so many men to be here today.
+8. Why haven't you done your homework.
+9. There aren't any bananas at the market today.
+10. He said he cannot fix your car until 4:00 o'clock.
+11. Don't be so careless when you drive on the freeway.
+12. The taxi driver didn't stop at the stop sign.
+13. The chore won't take too long to do.
+14. Weren't you going to buy a new car this month?
+15. She was pulled over for speeding.
+16. Her computer doesn't seem to be working.
+17. Don't forget to do your theory lessons each day.
+18. Wasn't it that dog that bit your hand?
+19. I had a dreadful dream.
+20. Isn't it a nice day to go on a picnic at the park?
+21. It was a cold, dark evening.
+22. Why didn't you catch up on your correspondence this weekend?
+23. They were at the wrong place at the wrong time.
+24. She was at the mall all day on Saturday.
+25. It was a great day to take a jog.
+26. It wasn't too long of a wait.
+27. We couldn't get a good rate on the loan.
+28. That was a great meal.
+29. What were the details?
+30. Isn't he the one whose house was robbed?
+31. Use the new wrapping paper to wrap the gifts.
+32. Who ate the whole peach pie?
+33. It was the wrong size.
+34. Whose wreck is it?
+35. Who's going shopping with Mom?
+36. Tell whomever you wish.
+37. I will be there in 30 minutes.
+38. She completed her financial report yesterday at 6:15 p.m.
+39. You shouldn't let her opinion affect your opinion.
+40. When will the drug take effect?
+41. It is a 50-minute class.
+42. I waited in her room until the baby fell asleep.
+43. She generally doesn't mind helping out.
+44. Mom called me early yesterday to let me know the general plans for our trip.
+45. We will start all over in a minute.
+46. Yesterday was an unusually hot day for May.
+47. They followed a general plan for success.
+48. What will the effect of her plans have on you?
+49. We were to leave by 11:00 o'clock.
+50. Our clock is broken.
+51. In my opinion, we shouldn't be going.
+52. I couldn't wait any longer for Greg to find me.
+53. He hasn't given us any advice about our financial matters yet.
+54. Her dad thought the dog was too rough on the cat.
+55. Did his speech have an effect on your opinion?
+56. We will leave for the show in a few minutes.
+57. We generally leave the house at 7:00 a.m.
+58. It will take us a few minutes to get ready.
+59. She didn't express her opinion to us.
+60. Don't give up on her yet.
+61. I won a bet yesterday.
+62. He usually runs a few minutes late.
+63. I hope he doesn't get confused and pull the wrong lever.
+64. His new loafers got all discussed scuffed up yesterday.
+65. That won't affect us at all.
+66. The globe glittered from the glazed coating.
+67. Glow worms glean and glisten when it is gloomy.
+68. The grader gave me a great grade.
+69. Glazing glassware requires gloves.
+70. The groom was grinding on the grindstone.
+71. The whole group was grinning.
+72. The glue and the glitter stuck to the gloves.
+73. Grub worms grow as they grunt.
+74. The great gray grouse was grim.
+75. The Globetrotters were in their glory as they glanced around.
+76. He would gladly stare at the glamorous girl with the glasses.
+77. We were glaring at the glowing, glittering blazes.
+78. The glee club gladly sang songs of glory.
+79. The grab bag was green.
+80. Graft the green trees in a group.
+81. You have a gram of greatness.
+82. Grandma and Grandpa were great.
+83. Don't mix the grapes with the grain.
+84. Some were gloomy and some were glad.
+85. The miser gloated over his glittering, gleaming gold.
+86. My gloom turned to glee when she got her glad rags.
+87. They glided on the glassy ice.
+88. The grease grew greatly in Greece.
+89. A grafter uses a grafting tool.
+90. We won't be able to make it to the Christmas party on December 24th.
+91. He wasn't able to finance the loan.
+92. You shouldn't complain so much.
+93. It hasn't rained in such a long time.
+94. I bet you wouldn't recognize Ted.
+95. I haven't thought about that in quite some time.
+96. It wasn't convenient for her at that particular time.
+97. He works at the general store on Tuesdays and Saturdays from 8:00 a.m. to
+4:00 p.m.
+98. We went to the shopping mall yesterday at 5 o'clock.
+99. The exam will start at 9:30 a.m. and will take 45 minutes to complete.
+100. It shouldn't affect us at all.
+101. How will the new schedule affect you?
+102. I didn't leave my book in his car.
+103. She hadn't been gone long.
+104. We will meet at the haunted house today at 3:30 p.m. if it doesn't rain.
+105. We will take the bus at 4:30 p.m.
+106. The movers should be here at 6:30 a.m.
+107. The chauffeur will pick you up tonight at 8:00 p.m.
+108. The meeting is set for January 11th at 2:00 p.m.
+109. Do you get up in the morning by 5 o'clock a.m.?
+110. Do you usually go to bed by 11:30 p.m.?
+111. They planned the wedding for 4 o'clock.
+112. Did you go out to eat at 12:00 o'clock noon?
+113. File the writ today.
+114. This is the wrong hour.
+115. Who owns the wrecking yard?
+116. Who's going to be a CSR?
+117. Whose machine did you use?
+118. Who is your new friend?
+
+Stewart A. Grossman, G-r-o-s-s-m-a-n, 785-8864
+Russ R. Henderson, H-e-n-d-e-r-s-o-n, 686-5729
+Steve L. Horner, 654-7865
+Ann Q. Honeycut, 681-2815
+Man G. Jenkins, 854-1565
+Karl R. Keener, 684-6529
+Norman Y. Loft, L-o-f-t, 734-9216
+Gary B. Morris, M-o-r-r-i-s, 737-4210
+Mary C. Novac, N-o-v-a-c, 982-1496
+Tim P. Quirk, Q-u-i-r-k,
+
+Tuesday, January 15, 1983
+Friday, April 27th, 2018
+Wednesday, May 3rd, 2001
+Saturday, June 6th, 1995
+Monday, November 11th, 1950
+Thursday, December 31st, 2000

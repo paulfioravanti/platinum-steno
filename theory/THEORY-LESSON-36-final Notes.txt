@@ -1,0 +1,255 @@
+ourselves, zebra, between, whether, shelf, request, accomplish, zinc, afternoon,
+zest, machine, myself, sip, remit, golf,
+
+1. serve, nerve, turf,
+2. surf, barf, dwarf,
+3. wharf, carve, scarf,
+4. verve, curve, swerve,
+5. reserve, preserve, deserve,
+6. conserve, starve, varve,
+
+1. Be sure to wear your scarf. They called it the Surf and Turf.
+2. Which of the scarves did you buy? They are tearing down the wharves.
+3. Don't swerve as you turn. It swerves from right to left.
+4. He swerved to avoid the truck. The car was swerving to the left.
+5. Reserve two seats for tonight. I am reserving a table.
+6. This is the reserved section. The oil reserves are low.
+7. They tested the varve. You deserve a raise.
+8. Did you barf up the food? The movie was about a dwarf.
+9. She made strawberry preserves. It seemed to be well preserved.
+10. There were no preservatives. Use linseed oil to preserve wood.
+11. Will you carve the roast? Who is doing the carving?
+12. The pioneers carved a nation. Lester carves very well.
+13. Which line serves this office? I served on the board of directors.
+14. Will you serve on the board? Fred is serving two years.
+15. The ulnar nerve was severed. That feat took a lot of nerve.
+16. Carol is just a bundle of nerves. Which nerves serve the ear?
+17. Be careful going around the curve. There are many sharp curves.
+18. Use a curved hook. Go up the curving driveway.
+19. The surf is high today. We ate dinner on the wharf.
+20. Put a scarf around your head. The race was run on the turf.
+
+1. 1538.5, 2.7, 31.8, 43.38, 2.3,
+2. 8.03, 3.55, 126.27, 1.9, 44.6,
+3. 5.671, 6.8, 3.78, 5.10, 0.51,
+4. 3.1416, 7.2, 101.3, 8.725, 98.7,
+
+1. What is 3.1416? Is 11.5 correct?
+2. Divide it by 6.9. The answer is .66.
+3. The loan cap is 10.7. Some beer is 3.2.
+4. Multiply by 4.6. He has a 7.6 loan.
+5. Add 8.5 and 7.2. The rates dropped to 4.25.
+6. It was a 5.5 earthquake. The temperature says 101.5.
+
+1. Alabama, Alaska,
+2. Arizona, Arkansas,
+3. California, Colorado,
+4. Connecticut, Delaware,
+5. Florida, Georgia,
+6. Hawaii, Idaho,
+7. Illinois, Indiana,
+8. Iowa, Kansas,
+9. Kentucky, Louisiana,
+
+1. Fishing is good in Alabama. Alaska has too much rain.
+2. We saw cacti in Arizona. We took a jet to Hawaii.
+3. They mine silver in Idaho. Abe was born in Illinois.
+4. She went to school in Iowa. The Royal Gorge is in Colorado.
+5. Key West is in Florida. Arkansas has many pine forests.
+6. Gold was found in California. He had a dairy farm in Connecticut.
+7. He took his race car to Indiana. Kansas is the Sunflower State.
+8. Kentucky is the Bluegrass State. We live in New Orleans, Louisiana.
+9. Dover is in the state of Delaware. She ate a fresh Georgia peach.
+
+1. material, perhaps,
+2. concern, apartment,
+3. event, eventually,
+4. become, became,
+5. program, and a half,
+6. problem, probable,
+7. depth, width,
+8. length, strength,
+9. Social Security, solemnly state
+
+1. become, strength, became, perhaps, probable,
+2. length, depth, material, problem, concern,
+3. width, depth, material, problem, event,
+4. apartment, become, perhaps, program, eventually,
+5. Social Security, and a half, material, strength, length,
+6. became, solemnly state, apartment, concern, probable,
+7. event, Social Security, width, material, perhaps,
+8. solemnly state, length, eventually, program, depth,
+9. and a half, apartment, concern, became, probable,
+10. Social Security, strength, become, perhaps, width,
+
+1. Outline the program for us. Have you tried the new programs?
+2. The robot was programmed. He is a computer programmer.
+3. What is the width of the door? Measure the width of the stove.
+4. He studied it in depth. The depth is 25,000 leagues.
+5. Did you ask what the problem is? The problems are too hard.
+6. The whole thing is problematic. Has the problem been solved?
+7. What kind of material is that? The shipment of materials is late.
+8. The order eventually materialised. Send back that material.
+9. The expression became trite. The dog became a nuisance.
+10. What became of the school mascot? The work soon became tedious.
+11. The dress is becoming to her. He is becoming a good bowler.
+12. He wants to become a doctor. You need to become adjusted.
+13. The length of time is surprising. What length of time will it take?
+14. He will go to any lengths. His car is, perhaps, the fastest.
+15. He needs to regain his strength. I don't have strength in my hands.
+16. It takes a great deal of strength. Perhaps you should apologise -FRPL
+17. Do not concern yourselves with his problem. We are concerned about her.
+18. We measured the length of the apartment. He moved into the apartment.
+19. What is your social security number? I lost my social security card.
+20. It is the most probable of all. They lacked the probable cause.
+21. The event started today. Can you help out at the event?
+22. Eventually, we need to get another car. I will eventually find a way out.
+23. It calls for one and a half teaspoons. I was there for two and a half years.
+24. Do you solemnly state to tell the truth? I solemnly state to tell the truth.
+
+1. screw, scratch, scrap, scrape,
+2. scrip, scroll, scrimp, script,
+3. scream, screech, scripture, scram,
+4. Scrabble, screen, scrawl, scrawny,
+5. scribble, scruffy, scrappy, scraper,
+6. scrotum, scrubby, scry, scrum,
+7. scrub, scrim, scrod, scree,
+8. screak, screwy, scruff, scribe,
+9. screed, scrive, scrooge, scrooch,
+
+1. He told the kids to scram. Play Scrabble with me.
+2. Pick up the scrap of paper. I heard the screech of tires.
+3. Tighten the screw on the lock. Can you fix the screen door?
+4. Scrape the mud off your shoes. There is a long scratch on it.
+5. They issued scrip for money. I can't read your scrawl.
+6. Scream if you need help. He got into another scrape.
+7. Did you study your script? He was just a scrawny kid.
+8. Just scribble a quick note. You will need a scrap of cloth.
+9. Scroll down the screen. They had to scrimp for food.
+10. He is known to be a scrooge. The scruffy dog needed a bath.
+11. Scrunch your hair to make it curl. Scrub the floors until they are clean.
+12. We caught scrod for dinner. I used scrim to make the curtain.
+13. They had to scrum to get the ball. Grab him by the scruff.
+
+---
+
+	THE COURT:  You do solemnly state the testimony you are about to give in the
+cause now pending before this Court shall be the truth, the whole truth, and
+nothing but the truth, so help you God?
+	THE WITNESS:  I do.
+	THE COURT:  You may proceed.
+	MR. CHAMBERS:  May I inquire?
+	THE COURT:  You may.
+BY MR. CHAMBERS:
+	Q	Miss Smith --
+	THE COURT:  Just a moment, please. Please state your name and spell your last
+name for the record.
+	THE WITNESS:  Sandy Smith, S-m-i-t-h.
+	THE COURT:  All right. Thank you. Proceed Mr. Chambers.
+BY MR. CHAMBERS:
+	Q	All right. Miss Smith, where do you currently live?
+	A	1892 Spring Drive in Riverside.
+	Q	Did you live at that address in July of 2018?
+	A	Yes, sir.
+	MR. DUGO:  Your Honor, I am having a difficult time hearing the witness.
+	THE COURT:  Miss Smith, I know it is tough, but you have got to keep your
+voice up a little bit. It is hard to hear in this courtroom, okay?
+	THE WITNESS:  Yes, your Honor.
+BY MR. CHAMBERS:
+	Q	All right. Now, were you living alone at that Spring Drive address in July
+of 2018?
+	A	No, I was living with Robert Cane.
+	Q	Do you see Robert Cane present in the courtroom today?
+	A	Yes, I do.
+
+---
+
+1. We were served fish out on the wharf.
+2. She was never one to observe the rules.
+3. She wore a silk scarf around her neck.
+4. When it comes to getting things done, I know that he is a real mover and
+driver.
+5. Did you reserve our seats for the 7:00 o'clock show?
+6. He travels to places where the surfing is good.
+7. Because he was so starved, he asked for a double order of the Surf and Turf.
+8. We observed several shrimp boats in the gulf coming closer to the wharf.
+9. He is not half as clever as he thinks he is.
+10. Will you carve the meat and serve it please.
+11. We must observe the rules whether we like it or not.
+12. As he approached the curb, Mike had to swerve to keep from bumping into the
+other car.
+13. I prefer strawberry preserves on my toast.
+14. The critic says that the play lacks verve.
+15. We never had the nerve to make the change.
+16. He is so shy and reserved that he doesn't have the nerve to get involved.
+17. Half of the people were served dinner while the other half were offered
+drinks out on the wharf.
+18. I must ask you whether or not you have enough time to think it over.
+19. As he swung the golf club, he cut a chunk out of the turf.
+20. I haven't the nerve to try surfing.
+21. Do you prefer fishing at the river or off the pier at the wharf?
+22. Marvin will carve the turkey this year.
+23. The percentage rate is now at 3.5%.
+24. The earthquake measured 5.4 on the Richter scale.
+25. Do you think it is possible to get a loan at 3.6 percent?
+26. The total came to 426.39.
+27. Was his blood alcohol level higher than .03?
+28. To pass the CSR exam, you must pass with a score of 97.5 percent or better.
+29. The judge granted the 1538.5 motion.
+30. We moved from Connecticut to Arkansas in 2010.
+31. He will visit family in Indiana and Delaware this summer.
+32. We went to the Grand Canyon in Arizona for our family vacation.
+33. Do you have your fancy hat for the Kentucky Derby party?
+34. Jenelle graduated from the college in California last year.
+35. They say there are many single men in Alaska.
+36. We arrived in Hawaii at 5:00 o'clock a.m.
+37. The potatoes were grown in Idaho.
+38. We were going to go to the Louisiana state fair next week.
+39. The Clarks spend their winter vacations skiing in Colorado each year.
+40. They took a train from Georgia to Alabama.
+41. He was born and raised in Iowa.
+42. Our flight to Kansas leaves tomorrow at 2:25 p.m.
+43. What is the length and width of the table?
+44. What depth did you dive to?
+45. Do you solemnly state to tell the truth?
+46. Her strength was zapped from the race.
+47. What is your Social Security number?
+48. I am going to Colorado and Idaho.
+49. Did you move into the are apartment?
+50. It is probable it will happen.
+51. It will take two and a half tablespoons.
+52. Can you help solve the problem?
+53. We will program that into the computer.
+54. Your Honor, I do not believe that this is material at this time.
+55. It was, perhaps, the most difficult day yet.
+56. The problem soon became clear to everyone.
+57. You must work hard to become a CSR.
+58. Frank became angry when he could not solve the problem.
+59. This book has no depth.
+60. Evelyn became very confused.
+61. We are all very concerned about her health problems.
+62. Brook became a successful court reporter.
+63. Perhaps we can all work out this problem together.
+64. It will take strength and determination to accomplish all of your goals.
+65. In the event of a fire, be sure to use the stairs.
+66. Does anyone know the depth of the swimming pool?
+67. Will you please measure the width of the room?
+68. He will go to great lengths to disrupt our plans.
+69. What a great accomplishment.
+70. The length is 35.7 feet.
+71. He is sure to become the star of the program.
+72. It is approximately 587 miles to Kentucky.
+73. The material is a fine silk.
+74. The problem was eventually worked out.
+75. You will find all the information you need for the test covered in the
+reading material.
+76. Her strength during the crisis was admired.
+77. It was difficult to stay focused during the lengthy lecture.
+78. She measured the width of the room to be 14.5 feet.
+79. Jim gave an in-depth interview on the television.
+80. Perhaps we can stop in Arizona on our way back from Alabama.
+81. She is an accomplished writer.
+82. She can swim the length of the pool with great ease and style.
+83. We will have to cancel the request for the shipment of merchandise.
+84. He studied the subject in depth.
+85. It is becoming easier to write on your machine every day.

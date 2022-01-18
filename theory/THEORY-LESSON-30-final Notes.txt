@@ -1,0 +1,221 @@
+figure, monument, comment, sneak, foment, ornament, witness, prompt, attempt,
+smidgen, sneeze, pavement, small, balance, tempt,
+
+1. expenditure, circulate,
+2. isolate, evaporate,
+3. luminous, medicine,
+4. benefit, imitate,
+5. reputation, minimal,
+6. speculate, adequate,
+7. architect, hypocrite,
+8. decimal, typical,
+9. solitude, uniform,
+10. autograph, popular,
+11. ridicule, analyze,
+12. decorator, interior,
+13. hesitate, stamina,
+14. marathon, celebrate,
+15. negative, recipe,
+16. excellent, maximize
+
+1. We have excellent weather. Maximize your workout for maximum results.
+2. The expenditure is too great. How much was the expenditure?
+3. Circulate in the crowd. That is an uncirculated coin.
+4. We must isolate the microbe. The storm isolated the group.
+5. The doctor gave her medicine. Look in the medicine cabinet.
+6. The water has evaporated. It will soon evaporate.
+7. The cost was quite minimal. It needs minimal pressure.
+8. Is it wise to speculate? He speculated in the market.
+9. Hire an interior decorator. I want to redecorate the room.
+10. The performance was typical. Is that typical of the desert?
+11. This is our annual benefit. It will be for our benefit.
+12. Use the Dewey decimal system. Do you understand the decimal?
+13. Did he wear a uniform? His uniform should be pressed.
+14. The balance today is adequate. Do you have adequate information?
+15. May I have your autograph? The star gave his autograph.
+16. He has an excellent reputation. His reputation preceded him.
+17. He is popular with the class. That is a popular new recipe.
+18. Do not ridicule your child. It is a mistake to ridicule him.
+19. He is analyzing the accounts. He turned it in to be analyzed.
+20. Order the vegetable soup. The vegetable plate is new.
+21. I hesitate to give you advice. He who hesitates is lost.
+22. You can build more stamina. It takes stamina to run the marathon.
+23. We will celebrate his birthday. Did you celebrate last night?
+24. Do you have the negatives? The test came back negative.
+25. Hire an interior decorator. The recipe was not easy to follow.
+26. The restaurant closed at 9:00. Halloween is in October.
+
+1. reply, amount, argue,
+2. second, subject, avenue,
+3. present, presence, beautiful,
+4. practice, practical, fingerprint,
+
+1. fingerprint, practice, amount, present, beautiful,
+2. argue, beautiful, subject, avenue, subject,
+3. practical, argue, presence, second, beautiful,
+4. presence, second, practical, practice, reply,
+5. beautiful, amount, present, avenue, building,
+6. difficult, advantage, beautiful, advantage, enclose,
+7. avenue, second, argue, present, practice,
+8. second, subject, reply, amount, fingerprint,
+
+1. When is your reply due? Reply before September 21st.
+2. He is late in replying. They replied to our decision.
+3. He won't amount to anything. The amounts don't balance.
+4. It isn't amounting to anything. The bill amounted to $400.
+5. Can we discuss the subject? The subject didn't come up.
+6. He was subjected to abuse. We are subjecting it to heat.
+7. How many were present? Mr. Foster was not present.
+8. Who is presenting the award? They presented a united front.
+9. The doctor has a good practice. He practices his swing.
+10. It is a common practice. He practiced until it was perfect.
+11. He argued to defray the cost. The presence of an acid was found.
+12. Present the subject to the meeting. What do you know about the subject?
+13. Please don't argue about it. They are still arguing about it.
+14. Robert argues about everything. Keep your argument short.
+15. Who is in second place now? His horse ran second in the race.
+16. Who is seconding the motion? The motion was seconded.
+17. He lives at 412 West Oak Avenue. Lemon Avenue is being widened.
+18. Every avenue has been explored. The parade will be on Peach Avenue.
+19. Is the plan really practical? His practical approach is good.
+20. Jim has practically retired. The invention is not practical.
+21. We noted the presence of Mr. Jones. The subject land was sold.
+22. Were you present at the meeting? The amount was accepted in payment.
+23. It is practically time to leave. Which avenue will be taken?
+24. They detected the presence of gas. Which avenue shall we follow?
+
+1. furl, hurl, swirl, curl, snarl,
+2. whirl, gnarl, twirl, girl, whorl,
+3. unfurl, uncurl, pearl, churl, skirl,
+4. knurl, Carl, Earl, marl, Jarl,
+5. dirge, large, barge, charge, purge,
+6. Marge, surge, urge, enlarge, merge,
+7. merger, forge, serge, Sarge, submerge,
+8. engorge, splurge, diverge, verge, emerge,
+
+1. The girl had a Shetland pony. Top the cake with a swirl of icing.
+2. The propellers whirl rapidly. Use that gnarl for a table base.
+3. The girl is a fine gymnast. That large dog will snarl.
+4. You can see the fingerprint whorl. The twine is in a snarl.
+5. Hurl the ball as hard as possible. Unfurl the school banner.
+6. Can you twirl faster? Curl her hair for the party.
+7. Watch her twirl her baton. Please uncurl the ropes.
+8. I saw him hurl the rock. My head is really in a whirl.
+9. Can you enlarge that picture? I think it sounds like a dirge.
+10. What is the charge going to be? The home team will surge ahead.
+11. Urge him to comply with the law. When will the companies merge?
+12. Did you hear about the merger? The companies merged last May.
+13. Did you forge his name? I think the check was forged.
+14. We can forge the shallow river. He wears a blue serge suit.
+15. He is the largest in the litter. Did you ask Marge to the prom?
+16. Purge those names from the list. His men all called him Sarge.
+
+---
+
+	Q	 How old are you, Pam?
+	A	 I am 17 years old.
+	Q	 Do you go to school?
+	A	 Yes.
+	Q	 What grade are you in?
+	A	 I am in grade 12.
+	Q	 Where were you at 4:00 p.m. on May 22nd, 2018?
+	A	 I was walking home from school. I had stopped at the mall with some
+friends, and it was getting later than I thought. That is when --
+	Q	 You were at the mall with some friends?
+	A	 Yes, I was.
+	Q	 Were you with these friends when you walked out of the mall?
+	A	 No. I looked at my phone and saw it was closer to 4:15 than I had thought.
+I am to be home no later than 4:15. My mom is very strict about that. I told the
+girl closest to me that I had to get going. Then I just walked out of the store.
+	Q	 Did you start home then?
+	A	 No, I didn't. I planned to, but I met a friend out in the parking lot, and
+we started talking. We didn't talk long, because I knew I had to get home.
+	Q	 What time was it when you started to walk home?
+	A	 Just before 4:00 o'clock. That would be just enough time for me to get home
+by 4:15.
+	Q	 What route did you take home?
+	A	 Well, it was getting later and later, so I took the shortest route I knew.
+It is a bike trial.
+	Q	 Had you been on this bike trail before?
+	A	 Yes, quite a few times. I thought it would be safe. In fact, I didn't even
+think about it because I had been on that trail with friends many times before.
+
+---
+
+1. Did you hire an architect to do the renderings?
+2. Did you have to modify the plans?
+3. There are seven children in their family.
+4. Did the medicine help cure your ailment?
+5. When opportunity knocks, do not hesitate to open the door.
+6. The deficit will exceed $2400.
+7. How will you be celebrating the holidays this year?
+8. Will you please send us a current catalogue?
+9. It required minimal effort on her part.
+10. Will you be able to participate in the charity benefit?
+11. I have a new digital camera.
+12. It will take determination and discipline along with stamina to get through
+school.
+13. You should practice for several hours each day.
+14. His salary will be $175,000 a year.
+15. Put the China in the curio cabinet.
+16. Were you able to get an autograph from the celebrity?
+17. Was the defendant found to be guilty or innocent?
+18. Do you have the stamina to go through with it?
+19. What do they manufacture at that factory?
+20. Heather is a very popular girl.
+21. Will you illustrate for us, please?
+22. Jim's negative attitude is annoying.
+23. She didn't indicate what she wanted.
+24. He will be terminated from his employment on Friday, the 28th of June.
+25. Are you satisfied with your current salary?
+26. What will regulate that?
+27. You have the ability to qualify.
+28. The nominee raised $728,000.
+29. He was lucky that she was able to verify his story.
+30. She knew that she had to quickly modify her study habits when she was
+notified that she nearly failed the test.
+31. You should keep a positive attitude.
+32. All of the players' gloves were left in the team's dugout.
+33. It rained heavily all day long.
+34. Commit this to memory.
+35. He followed her command.
+36. He went with the popular choice.
+37. Don't do anything too radical on your vacation.
+38. We were desperate to know all about it.
+39. She is very liberal in her thoughts.
+40. Did you have to travel very far?
+41. I would like to have some nice jewellery.
+42. How many girls are there in your family?
+43. There was no comparison.
+44. The judge said it was perjury.
+45. What was the amount of the invoice?
+46. Did you argue with the witness?
+47. He was the second witness to testify.
+48. Do you remember his reply to the question?
+49. We strolled slowly down the avenue.
+50. We were honored to be in his presence.
+51. That was a practical argument.
+52. Where does that gentleman practice law?
+53. His reply was very soft.
+54. The amount paid was $100.
+55. Did you argue with your friend?
+56. He was the second person to be called to the witness stand.
+57. How many subjects are you studying this semester?
+58. How long did you drive on the avenue?
+59. His presence was intimidating.
+60. Were you present in court every day during the trial?
+61. Be practical when you make your decision.
+62. Practice your homework every day.
+63. The baby girl had some curls.
+64. Did you hurl the ball?
+65. We watched the water swirl.
+66. The man snarled at the bus driver.
+67. Whirl around and around.
+68. His gnarled hands tried to hold the book.
+69. The dancers twirled around the dance floor.
+70. They sadly played the dirge.
+71. The large barge was out on the ocean.
+72. How much did they charge for the movie?
+73. Marge was their secretary.
+74. The stock market surged to a high record.
+75. Do you have the urge to have an ice-cream cone.

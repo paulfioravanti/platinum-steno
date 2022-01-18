@@ -1,0 +1,232 @@
+nerve, Alabama, depth, swerve, become, Iowa, turf, scrimp, concern, perhaps,
+observe, Hawaii, preserve, screech, strength,
+
+1. vicious, viciously,
+2. gracious, graciously,
+3. spacious, precious,
+4. specious, superstitious,
+5. luscious, fractious,
+6. conscious, subconscious,
+7. cautious, cautiously,
+8. facetious, obnoxious,
+9. atrocious, malicious,
+10. vivacious, audacious,
+11. fictitious, tenacious,
+12. auspicious, consciously,
+13. semiprecious, conscientious,
+14. delicious
+
+1. Be cautious when you cross. Marvin cautiously tried the ice.
+2. Marjorie is a gracious hostess. She graciously excused herself.
+3. The rooms are extremely spacious. The fresh peaches look luscious.
+4. His argument was specious. All the names are fictitious.
+5. Those dogs are not vicious. He was viciously attacked.
+6. She served a luscious dessert. He deals in precious stones.
+7. They made an audacious attack. It was not an auspicious time.
+8. The leading lady was vivacious. He was superstitious about it.
+9. Was he conscious after the fall? It is buried in my subconscious.
+10. Did she act consciously? She was unconscious for hours.
+11. I was just being facetious. He said it facetiously.
+12. His manners are atrocious. He plays chess atrociously.
+13. Are you superstitious about 13? It was a purely malicious act.
+14. Was it done maliciously? I played an atrocious game.
+15. The garnet is semiprecious. They proved it to be malicious.
+16. He is extremely tenacious. He held on to it tenaciously.
+17. The salad looks so delicious. Ted is a conscientious worker.
+18. He conscientiously counted them. Robert did it subconsciously.
+19. He is behaviour was obnoxious. The fumes were noxious.
+20. The delay made him fractious. Her attitude was obnoxious.
+
+1. John Mills is 12; Jan Mills is 15.
+2. My parents live in Alaska; I live in Hawaii.
+3. Mr. Penrod left the office early today; correct?
+4. The trial started on Monday, June 12; right?
+5. The accident happened on October 25th; is that correct?
+6. You said the car was silver; is that right?
+
+1. Maine, Maryland,
+2. Massachusetts, Michigan,
+3. Minnesota, Mississippi,
+4. Missouri, Montana,
+5. Nebraska, Nevada,
+6. New Hampshire, New Jersey,
+7. New Mexico, New York,
+8. North Carolina, North Dakota,
+9. Ohio, Oklahoma
+
+1. The lobster came from Maine. They did live in Maryland.
+2. Plymouth Rock is in Massachusetts. Is Lake Michigan polluted?
+3. Minnesota is a land of many lakes. He is a Mississippi riverboat pilot.
+4. Do you come from Missouri? They mine copper is Montana.
+5. Ohio is the Buckeye State. Lake Mead is in Nevada.
+6. Did you leave New Hampshire? Where is New Jersey?
+7. He lives in New Mexico. He has a New York accent.
+8. We are going to North Carolina. We raise wheat in North Dakota.
+9. They raise corn in Nebraska. Oklahoma has many oil wells.
+
+1. opposite, department,
+2. ordinary, superintendent,
+3. defendant, plaintiff,
+4. attorney, ago,
+5. appreciate, appreciation,
+6. represent, representative,
+7. approximate, approximately
+
+1. order, represent, superintendent, defendant,
+2. department, ordinary, attorney, depth,
+3. ago, approximate, plaintiff, attorney,
+4. defendant, approximately, appreciation, department,
+5. ordinary, representative, appreciate, plaintiff,
+6. opposite, appreciation, strength, approximate,
+7. length, depth, department, approximately,
+8. appreciation, ordinary, order, ago,
+9. depth, opposite, superintendent, attorney,
+10. represent, length, defendant, approximate,
+
+1. We appreciate what you did. I don't think you appreciate it.
+2. Show your appreciation. She teaches art appreciation.
+3. We appreciated her help. I know he appreciates it.
+4. Which department has the forms? It is departmental policy.
+5. Buy it at the department store. The two departments will merge.
+6. It is all departmentalised. How many departments are there?
+7. He took the opposite side. He has an opposite viewpoint.
+8. The twins are exact opposites. They say opposite attract.
+9. The superintendent is rotate hours. I represent the company.
+10. Will you represent me? Who represents this country?
+11. I appreciated the gift. Who is your superintendent?
+12. It was an ordinary day. The superintendent is late.
+13. Ordinarily we represent them. He showed his appreciation.
+14. I represent the opposite side. Who represents the department?
+15. Is it representative of his work? Who is your representative?
+16. We need more representation. The superintendent called us.
+17. My department is not appreciated. We have but one representative.
+18. Represent the department. We have but one department.
+19. Just use an ordinary knife. What is the ordinary amount?
+20. He is not ordinarily late. Ordinarily we close by dark.
+21. The defendant lost his case. How many defendants are there?
+22. The defendant pleaded guilty. Where is the defendant being held?
+23. Are you the plaintiff in this case? The plaintiff took the stand.
+24. I will represent the plaintiff. The plaintiff was suing for damages.
+25. Do you have an attorney? The attorney was running late.
+26. Our attorney is very expensive. Mr. Smith is the defendant's attorney.
+27. It was an approximate figure. What is the approximate time?
+28. We had an approximate date. It was approximately six feet long.
+29. It was approximately 5:00 o'clock. Approximately what time did it occur?
+30. How long ago did it happen? It was a long time ago.
+31. He turned 30 a few weeks ago. A few months ago, she couldn't drive a car.
+
+---
+
+Ladies and gentlemen of the jury, we will adjourn now where you will be taken
+to lunch. You should be back here by 2:30. Please do not discuss the case among
+yourselves. Do not discuss it with anyone else. Do not have anyone discuss it
+with you. We want you to decide this case on the evidence that you are going
+to hear in this courtroom. We want you to keep your minds open until you have
+heard all of the evidence. You are not to visit any of the places mentioned in
+the evidence. The physical conditions at those places today may be different
+from what they were in July of 2016. If there is anything on the radio, on the
+television, internet, or in the newspaper about the case, you are to ignore it.
+After all, you will know more about this case than any television reporter. You
+will hear the legal evidence. This is a serious case. You are to strictly obey
+these admonitions. We will now adjourn now until 2:30. Enjoy your lunch.
+
+---
+
+BY MR. STPHAO:
+	Q	On the night of December 24th, 2018, did you hear noises coming from the
+living room?
+	A	Yes, I did.
+	Q	What did you hear?
+	A	I heard Santa Claus coming down the chimney.
+	MR. EUFPLT:  Objection, your Honor, speculation.
+	THE COURT:  Sustained.
+BY MR. STPHAO:
+	Q	Why do you think it was Santa Claus?
+	A	Because he was fat and wore a red suit.
+	Q	Nothing further, your Honor.
+	THE COURT:  Mr. Freeman, you may proceed.
+BY MR. EUFPLT:
+	Q	What did he do after he filled your stockings?
+	A	After he unloaded our gifts, he ate a cookie.
+	Q	What kind of cookies were they?
+	A	Chocolate chip.
+	Q	Did you bring any of those with you today?
+	A	No, ma'am.
+	Q	Thank you.
+
+---
+
+1. The pitbull appeared to be very vicious.
+2. We are currently looking for a spacious home in Georgia.
+3. Bradley becomes fractious when he is intoxicated.
+4. He lost consciousness after the accident.
+5. Jack became obnoxious during the argument with the superintendent.
+6. He writes fictional material under a fictitious name.
+7. She has a tenacious memory.
+8. R.J. is superstitious about Friday the 13th.
+9. Make a conscious effort to solve the atrocious problem.
+10. The precious stones were even more special because they had once been her
+mother's.
+11. Beth was vivacious and precocious as a child but she lacked in social
+graces.
+12. They were cautious as they entered in the cage of the vicious and ferocious
+panther.
+13. She prepared a delicious and nutritious feast just perfect for our voracious
+appetites.
+14. He was a gracious host but he was so flirtatious.
+15. The guests were suspicious of him.
+16. She had a reputation of being ostentatious and pretentious.
+17. He was conscientious and ambitious.
+18. We spent the weekend in Laughlin, Nevada.
+19. Did you hear about the terrible hurricane in Maine?
+20. We took a riverboat ride down the Mississippi river.
+21. They will be moving to North Dakota next August.
+22. The train will arrive in Salem, Massachusetts at 3:00 o'clock p.m.
+23. He plans to spend the holidays in New York.
+24. She owns an oil well in Oklahoma.
+25. The Jensens built a beautiful spacious home in New Hampshire.
+26. We will vacation in New Mexico next year.
+27. He now lives in Michigan.
+28. Ship the merchandise directly to the Missouri plant.
+29. How long will you be staying in North Carolina?
+30. Amy graduated from Ohio State University in 2015.
+31. Did I hear you say that you were born in Maryland?
+32. How long did you live in Minnesota before you relocated to New Jersey?
+33. Be sure to visit the copper mines while you are in Montana.
+34. It was crucial that the financial expert remain impartial.
+35. The financial costs for airing television commercials is substantial.
+36. Your participation in the project is greatly appreciated.
+37. In which department did you say you worked?
+38. The day started out as just another ordinary day.
+39. Who is the superintendent in charge of this department?
+40. Which counsel is representing the defendant?
+41. She was full of appreciation for her mother and father's generosity.
+42. What jurisdiction does this court have?
+43. We have an appointment to speak with your representative today at 4:30 p.m.
+today.
+44. They have completely opposite personalities.
+45. Are you here to represent the company from Hawaii?
+46. He didn't show much gratitude and appreciation.
+47. Did you inform your superintendent of the accident?
+48. We left for Alaska on July 25th.
+49. That is not usual in the ordinary course of business.
+50. Do you think that opposites attract?
+51. We will have to go to the department store around 3:00.
+52. We appreciate all of your encouragement.
+53. Ordinarily we contact the superintendent in charge.
+54. She is the representative from Iowa.
+55. Her parents are from Louisiana.
+56. There is nothing ordinary about her.
+57. We will send the letter of recommendation to the superintendent at the Idaho
+office immediately.
+58. The defendant did not appear in court.
+59. Who is the defendant?
+60. I represent the plaintiff.
+61. The defendant and the plaintiff are both present.
+62. The plaintiff's attorney is Mr. Meyers.
+
+$1,008.24
+$35,962.89
+$94,082.50
+$23,568.09
+$4,507,893.26

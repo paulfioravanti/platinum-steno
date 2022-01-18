@@ -1,0 +1,278 @@
+fortune, invest, cheer, worst, next, picture, boast, folk, sugar,
+east, walk, another, burst, clever, treasure, sure,
+
+1. array, a ray,
+2. abridge, a bridge,
+3. allure, a lure,
+4. appeal, a peal,
+5. alike, a like,
+6. ahead, a head,
+7. apiece, a piece,
+8. around, a round,
+9. away, a way,
+10. acute, a cute,
+11. aside, a side,
+12. assure, a sure,
+13. accord, a cord,
+14. attire, a tire,
+15. await, a wait,
+16. arise, a rise,
+17. apprise, a prize,
+18. apart, a part
+
+1. It has a like shape. They look so much alike.
+2. They have a like appearance. The two stones are much alike.
+3. Do you want to buy a bridge? Did he abridge that text?
+4. A bridge crosses the river. They will abridge his book.
+5. We came to a rise in the road. They will arise at dawn.
+6. The house sits on a rise. He does not arise until noon.
+7. We plan to appeal the case. Do you hear a peal of thunder?
+8. Steve won his appeal. Did you hear a peal of bells?
+9. The team is ahead now. She has a head of red hair.
+10. He was far ahead of his time. I like a head on my beer.
+11. You should see the array of hats. Did you see a ray of light?
+12. He dismissed the whole array. It is done with a ray of light.
+13. The picnic ground is far away. That would be a way to do it.
+14. He has been away on a trip. Tell us a way to go with her.
+15. Ben is in acute pain. She purchased a cute toy.
+16. They said the attack was acute. That is a cute doll she has.
+17. They plan to attack at dawn. Use a tack to put it up.
+18. I will attack your new plan. You need a tack to hold it.
+19. Buy a round of beef. Tie the ribbon around it.
+20. Stay around the house. Use a round plug.
+21. You may have 20 cookies apiece. Johnny ate a piece of pie.
+22. We can have four apiece. I gave him a piece of my mind.
+23. Apprise him of the test. Who is going to win a prize.
+24. When you know, please apprise us. A prize will be given first.
+
+1. from, individual,
+2. enough, answer,
+3. immediate, around,
+4. recommend, recommendation,
+5. cigarette, secretary, secretarial,
+6. Dr., doctor, Doctor,
+7. Mr., Mrs., Ms., Miss,
+
+1. doctor, Ms., Mr., Mrs., from
+2. around, enough, individual, without, recommendation,
+3. cigarette, immediate, Dr., sufficient, answer,
+4. Miss, secretary, Doctor, recommend, secretarial,
+5. Mr., Mrs., Ms., Miss, doctor,
+6. Doctor, Dr., secretary, recommend, secretarial,
+7. doctor, around, answer, immediate, recommendation,
+8. Ms., Mrs., Mr., Miss, from,
+9. individual, cigarette, doctor, from, secretarial,
+10. immediate, enough, answer, Dr., Doctor,
+
+1. The need is immediate. Mrs. Ray needs immediate help.
+2. Take immediate control. Call for immediate service.
+3. Invite Mrs. Jones to come. Mrs. Dryden phoned today.
+4. Did you write to Mrs. Lane? Whom did Mrs. Holt tell?
+5. The secretary is Ms. Harris. Who is your new secretary.
+6. Can your secretary type well? I want to be a good secretary.
+7. Count each individual piece. It is an individual matter.
+8. The individual is Mrs. Miller. Each individual should write.
+9. Mr. Carter purchased the shop. Who is Mr. Johnson?
+10. Mr. Lyndon called Friday. Inform Mr. Price about it.
+11. Which one would you recommend? I would recommend him if you wish.
+12. Recommend a good doctor. I wish you would recommend her.
+13. You really should see a doctor. The doctor is not here yet.
+14. Jerry plans to be a doctor. Tell the doctor to hurry.
+15. Where does it come from? He looks like a man from Mars.
+16. Most of it comes from the sea. It must be 15 miles from here.
+17. What was your answer, Miss Lane? Miss Wilson, answer the question aloud.
+18. I want Miss Dunn to answer the question. I need an answer from Miss Stone.
+19. Will you write a recommendation? His recommendation was enough, Doctor.
+20. Do you have a recommendation? The recommendation is here, Doctor.
+21. Give enough information to Dr. Payne. It is not enough to tell Dr. Todd.
+22. Dr. Carr has enough skill. Dr. Kent is not good enough.
+23. My recommendation is to see Ms. Hall. Ms. Johnson recommended another
+doctor.
+24. Mrs. Nelson did not call Ms. Barnes. The doctor has a secretary, Ms. Gill.
+25. Keep the cigarette away from the baby. Cigarettes cause cancer.
+26. Do not smoke the cigarette here. It is her secretarial duty.
+27. She loved her secretarial job. He travelled around the world.
+28. I walked around the room. The news got around quickly.
+
+1. fry, frame, freight, frill, fret,
+2. fraud, Fred, frail, fruit, phrase,
+3. frock, frog, fray, frolic, frisky,
+4. fresh, frantic, France, friend, fracas,
+5. flour, flower, flip, flit, flesh,
+6. flick, flack, flight, flame, flash,
+7. fly, flap, floor, flipper, flapper,
+8. flag, flicker, flirt, float, flibbertigibbet,
+
+1. Order fried potatoes. Eat fruit for dessert.
+2. I can't think of the phrase. She is old and frail.
+3. That is a pretty frock. Do you like frog legs?
+4. Fry the fish in butter. Your seam is frayed.
+5. Watch the kitten frolic. The case is based on fraud.
+6. The new colt is frisky. Is the trout really fresh?
+7. He was frantic with worry. He went to France.
+8. She is a good friend of mine. Were you in the fracas?
+9. Don't use white flour. Who sent the flowers to her?
+10. Was it just a flash in the pan? Flick the ashes off the chair.
+11. Are you going to fly this time? Flip over to page 42 now.
+12. We had a rough flight yesterday. Close the flap on the folder.
+13. Use wax on the kitchen floor. The seal waved his flipper at us.
+14. The light is just flickering. It was just a flesh wound.
+15. She was a flapper in 1920. The flag is at half mast.
+16. She is a flibbertigibbet. Don't take all that flack.
+
+1. The boy's book.
+2. The girl's dolls.
+3. The judge's ruling.
+
+1. The boys' books.
+2. The girls' dolls.
+3. The judges' rulings.
+
+1. The men's club.
+2. The mice's tracks.
+
+Ease, easy,
+
+1. The sage's words were wise. The spy's coat was old and frayed.
+2. The men's club had been closed. Her date's car is broken down a lot.
+3. That store's goods are priced too high. My niece's book was left at Kate's
+house.
+4. These watches' faces are too hard to see. The jock's bragging was tiring to
+all of us.
+5. The jet's noise hurt Tom's and Glen's ears. The judge's ruling was not what
+we wanted.
+6. The rose's thorns stabbed the child's hand. He feels good when he has a full
+day's work.
+7. The fall leaves' hues were colorful. All of these plays' endings are too sad
+for Ken's liking.
+8. The front door's paint is fading. Pam and Carl's dad bought the Browns' car.
+9. The nail's point pierced Stan's foot. The phone's ring and the clock's
+ticking is too loud.
+10. The chief's staff was late for the morning meeting. All of the guards' guns
+were cocked as they booked for the girl's killer.
+11. The firm's bus had a flat tire. The fire's flames were hot.
+12. The state's fruit crop was ruined. The raft's leak was getting larger.
+13. The thug's gun had been left in the trash. The gun's prints gave no clues.
+14. The school's coach is leaving soon. The town's Main Street was not very
+clean, and Jane's main hope was to clean it up.
+15. The scouts' outing was rained out. He has not won a game in two years' time.
+16. The pie's filling was oozing out of the shell. The book's pages were worn,
+but I kept it for old times' sake.
+
+---
+
+1. They will appeal the case.
+2. I will cut a piece of cake for you.
+3. Give a part of it away.
+4. He sat apart from the rest of the group.
+5. Do you know a way we can fix this?
+6. She walked around the block.
+7. We arose in court when the judge walked into his courtroom.
+8. She was afraid of the abuser.
+9. Let me assure you that you are doing well.
+10. Judge is away for the month.
+11. Read the letter aloud to me.
+12. Have you been allowed in the courtroom yet.
+13. A lone figure stood in the shadows.
+14. They say that she gets around.
+15. We are going away for the summer.
+16. They will assign us a job.
+17. Put a sign up on the door.
+18. Please don't go ahead in your book.
+19. He was dressed in his best attire.
+20. He wasn't apprised of all the information.
+21. Do you think we can afford this new house.
+22. There was a tire in the center of the road.
+23. Pick a rose for tonight.
+24. Use a tack to fasten it.
+25. You must stay alert when you are driving.
+26. We must plan our attack.
+27. Hunt for a way to do it.
+28. He drives a Ford.
+29. Tie a ribbon around the package.
+30. Her attire is perfect.
+31. Read in a loud voice.
+32. He came to court alone.
+33. It is a round ball.
+34. Sit apart from the rest of the people.
+35. Ms. Hart needs to see a doctor immediately.
+36. We didn't have enough to go around.
+37. They were in need of immediate help.
+38. What is your opinion, Doctor?
+39. Mrs. Scott's secretary types very fast.
+40. Miss Brown said she received a letter from the credit company on February
+27th.
+41. They will be sure to take care of all your individual needs as soon as
+possible.
+42. Ms. White is in the secretarial transcribing pool at her office.
+43. Did you have enough to eat at dinner last night?
+44. Mrs. Johnson is Mr. Cutler's secretary.
+45. Miss Shaw's house is right around the corner.
+46. Ask Mr. Thomas which one he would recommend.
+47. Have your secretary write a letter of recommendation for you.
+48. I am waiting for an answer from Ms. Stewart.
+49. She got a good recommendation from Mrs. Jackson.
+50. Mark's dad came to his football game.
+51. Miss Hillman will be attending secretarial school next September.
+52. What recommendations did your doctor make?
+53. Dr. Lipton will call you with an answer today at 3:15.
+54. Each individual should answer immediately.
+55. On what day did you see her, Doctor?
+56. The cake's icing was sticky.
+57. Ms. Winters applied for the secretarial job at Dr. Wilson's office.
+58. Mr. And Mrs. Keller will be here to answer any questions you may have.
+59. Where did he come from?
+60. She will see Dr. Henderson today at 2:00 o'clock.
+61. That wasn't the answer he had hoped for.
+62. The judge's clerk is our friend.
+63. Those stores prices are too high.
+64. We have had enough.
+65. She immediately opened the letter from the credit company.
+66. His house is right around the corner.
+67. The recommendation from your doctor sounded good.
+68. Doctor, what time will you see her today?
+69. We need fresh flowers and fruit.
+70. The frame was a frail structure.
+71. The frog man frolicked in the freezing water.
+72. My frightened friend wore a frock with frills.
+73. Fricassee and fritters are free on Fridays.
+74. Don't fret about frequent Fridays.
+75. Florence was a flippant floor walker.
+76. Fred's flag flew offer the flower pots.
+77. He flipped over her flirting.
+78. Flagging a train is flashy but flippant.
+79. The flashing floodlights flickered.
+80. The flag was flying at half-mast.
+81. Fleet-footed flatters flounce floppingly.
+82. Sam's hat is too big.
+83. You said you were at Don's house.
+84. Kim's mom will pick us up at 5:00 o'clock p.m.
+85. The cat's tail is long.
+86. The baby's cry was loud.
+87. We listen to the school's band.
+88. All of the students' grades were good.
+89. We met with Pam's teachers.
+90. All of the books' pages were torn.
+91. The dog's bark was mean.
+92. It is Fred's dog.
+93. The child's room is messy.
+94. The car's paint was dull.
+95. Sue's dad works for AT&T.
+
+Bruce T. Hunter, H-u-n-t-e-r, 730-8659
+Stanley Q. Kirby, K-i-r-b-y, 544-7241
+Clark A. Marx, M-a-r-x, 838-3018
+Peter C. Morgan, M-o-r-g-a-n, 944-3011
+Amos E. Paxton, P-a-x-t-o-n, 638-5235
+Paula P. Maule, M-a-u-l-e, 973-3828
+Jane N. Rocha, R-o-c-h-a, 731-6223
+
+July 4, 1999
+March 14th, 1943
+September 18th, 2010
+February 23rd 2019
+December 9, 2008
+June 2, 1990
+January 15th, 2001
+April 25, 2004
+May 11th, 1985

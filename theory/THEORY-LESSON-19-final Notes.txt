@@ -1,0 +1,298 @@
+wished, played, thought, gold, bald, viewed,
+87, 30, 20, 66,
+
+1. lying, seeing, rowing
+2. coming, mashing, steaming,
+3. wishing, lining, buying,
+4. saying, paying, fishing,
+5. raining, rubbing, ribbing,
+6. stabbing, bowing, suing,
+7. knowing, tanning, roaming,
+8. staining, humming, foaming,
+9. getting, eating, being,
+10. railing, howling, feeling,
+11. failing, ruling, bailing,
+12. sailing, fueling, shouting,
+13. sealing, ceiling, oiling
+
+1. She is humming a new tune. We should use copper tubing. Is Ted manning the
+boat.
+2. I hate washing the dishes. His boss was fuming about it. She was lying down
+sobbing.
+3. The critic gave it a panning. Stop pushing and shoving. The sun is fading the
+carpet.
+4. I hate to do the packing. The matting has holes in it. Go on up in the
+rigging.
+5. Ned is hugging his mom. Are you breaking the law? The cats are hissing at the
+dog.
+6. Is he setting the pace? We are teaming up for the race. Stop jabbing at the
+coals.
+7. Use tanning oil in the sun. He is lashing the ropes down. He is roaming the
+halls.
+8. The lake is teeming with fish. Sue is faking a headache. The humming bird
+flew by.
+9. Tom has a homing pigeon. Are you coming here tonight? He is rubbing the wax
+finish.
+10. He is running a relay race. Are you mashing the potatoes? What is your
+batting like?
+11. Would you consider trading? She is making a lemon cake. The seat needs new
+backing.
+12. The dog is licking his hand. The house is facing the lake. Stop fussing
+about it.
+13. What size stocking is it? Where are you sitting tonight? I wish he would
+stop pacing.
+14. That was a passing fad. The old couch is sagging. Consider raising the
+stakes.
+15. Pat is sticking to his ways. Was he eating the peach pie? Why was she taking
+her time?
+16. Rob is getting a new car. Stop pacing up and down. He is raking the leaves.
+17. Are you stacking the suitcases? John is bailing out. She is peeling the
+peaches.
+18. What was the new ruling? What is your bowling score? The papers are piling
+up.
+19. He has been sailing this week. The ceiling is peeling. I am sealing the
+fruit.
+
+1. even, evening, morning
+2. particular, police car, recognize,
+3. possible, finance, financial,
+4. convenient, convenience, upon
+
+1. even, written, convenient, upon, particular,
+2. police car, convenience, possible, question, recognize,
+3. financial, possible, evening, morning, finance,
+4. recognize, upon, even, particular, convenient,
+5. evening, finance, police car, recognize, convenience,
+6. even, morning, particular, possible, financial,
+7. upon, convenience, convenient, police car, particular
+
+1. Pay even a wee bit. Even a letter would be nice. Give him even a crumb.
+2. We stock many convenience foods. It is made for convenience.
+3. Meet me at your convenience. The convenience made it convenient to decide on
+what to do.
+4. Paul is very particular. I want that particular one. Did you pick that
+particular day?
+5. When will it be possible? We saw four possible ways. It is not possible to
+save.
+6. When will it be convenient? It is not convenient. Monday is a convenient
+time.
+7. We are depending upon you. The company can depend upon him.
+8. He is calling upon his boss to help. They can depend upon her to teach the
+financial class.
+9. I recognize that it is necessary. Did she recognize Kevin? I hope she will
+recognize him.
+10. Make financial plans now. Control the financial matters. The house was a
+financial loss.
+11. The evening was very humid. I shall see her this evening. It is not
+convenient this evening.
+12. He had to finance the house. The finance company needs help.
+13. Is it convenient to finance the purchase? That particular finance loan has
+to be financed.
+14. Is it possible to recognize him? Financial gain is not possible. Give me
+that particular one.
+15. Did you recognize the letter. It is not even possible. It caused a financial
+mess.
+16. Call me in the morning. The morning sun is bright. I saw the police car.
+17. Did you see that particular police car? Did you pass the police car?
+
+1. helpful, unopened
+2. unsatisfied, inconsiderate
+3. letters, suggesting
+4. ordered, purchased,
+5. impossible, advertising,
+6. accounting, remembered
+7. correspondent, unnecessary,
+8. acknowledged, companies
+
+1. The company acknowledged it. It was a satisfying meal.
+2. He remembered to put it out. I am asking you to save time.
+3. We acknowledge the order. Joe is good at remembering.
+4. They are impossible to read. It is an unadvertised sale.
+5. Are you ordering more pencils? The accountant filed the papers.
+6. I have a new correspondent. The company has more purchasing power.
+7. It helps to look at the source. Extra help is unnecessary.
+8. Start saving your receipts. What is your advertising budget?
+9. He is to do all the purchasing. The company advertised in the paper.
+10. The sign needs new lettering. The ordering should be done Monday.
+11. The new book is very helpful. I see them on Sundays.
+12. The package is unopened. He is refinancing the house.
+
+A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.W.X.Y.Z.
+
+1. AAA, ABA, ABC, ACLU,
+2. AD, ADP, AFI, AHL,
+3. AKC, AMA, APB, APO,
+4. BBA, BBB, BBC, BP,
+5. BPOE, BYO, CBS, CD,
+6. CEO, CIA, CM, COD,
+7. CPU, CSCR, CSR, DA,
+8. DDS, DJ, DOA, EDF,
+9. EKG, ESP, EST, FAA,
+10. FCC, FDA, FDIC, GBC,
+11. GI, GMC, GOP, GPA,
+12. HEW, HMO, HQ, ICC,
+13. ICU, ID, IRA, IRS,
+14. IQ, JD, JFK, KGB,
+15. DLOS, LA, MBA, MD,
+16. MO, MSG, MVP, NCRA,
+17. NFL, NYPD, OCD, OTC,
+18. PBS, PLO, PO, PR,
+19. QED, RFD, RPR, SOS,
+20. TGIF, TMI, TNT, UCLA,
+21. USA, USDA, VA, VFW,
+22. WKT, YMCA, ZN, ZIN,
+
+1. Pam A. Morse, M-o-r-s-e
+2. C. Robert Wright, W-r-i-g-h-t
+3. B. Z. Morton, M-o-r-t-o-n
+4. Mark E. Adams, A-d-a-m-s
+5. N. X. Heller, H-e-l-l-e-r
+6. John Q. Public, P-u-b-l-i-c
+7. P. J. Tillman, T-i-l-l-m-a-n
+8. B. D. Anders, A-n-d-e-r-s
+9. L. K. Griffen, G-r-i-f-f-e-n
+10. C. D. Scott, S-c-o-t-t
+11. Martin L. Carson, C-a-r-s-o-n
+12. D. O. Dodd, D-o-d-d
+
+1. An EKG was ordered. Mail it to APO 43. He is now a CPA.
+2. He joined AFTRA. The GNP went up. Our CB is licensed.
+3. What is his IQ? The DA will listen. ABC canceled it.
+4. Ship it COD today. I tried the ACLU. Attend the PTA.
+5. Room at the YMCA. She has her BA. I joined the VFW.
+6. Did you take ROTC? It was a USO tour. It came on AP wire.
+7. It is spelled Lester. Mondale, Mondale. Give it to the SPCA.
+8. I attended CSCR. The private went AWOL. Is it spelled Daniel?
+9. Clausen, Clausen. Register with AKC. It came back NSF.
+10. Bolling, Bolling. It is Cleveland. Dan Erickson is a GP.
+11. It is a UHF mark. Hinshaw, Hinshaw. It is spelled Nolan.
+12. We heard a faint SOS. He was DOA. Waxman, Waxman.
+13. Nixon, Nixon. It is Walter. Farley, Farley.
+14. Is it Derrick? Cotter, Cotter. It is Hubbard.
+15. Martin, Martin. It is Madigan. Wydler, Wydler.
+16. It is Traxler. Harkin, Harkin. It is Wiggins.
+17. Snyder, Snyder. It is Hawkins. Meyner, Meyner.
+18. Is it Wampler? Vander, Vander. It is Eilberg.
+
+---
+
+1. Stop telling us that spelling is hard.
+2. Have the dogs stopped yapping yet?
+3. When did that annoying buzzing noise start?
+4. Is the cup with the chip dripping?
+5. Can you hear the bird chirping?
+6. Is the gentleman planning on coming back?
+7. He is focusing hard on his career goals.
+8. They will be sailing all day if the waves are not too high.
+9. I am going shopping as soon as I finish cleaning this house.
+10. Why has he been feeling so weak?
+11. He is gaining her respect.
+12. We will be eating dinner at the new pub tonight.
+13. His car seemed to be polling to the right.
+14. My sore knee is throbbing.
+15. We are planning on buying a new house when the time is right.
+16. She is reading a good book and enjoying it very much.
+17. Will you be running in the race on Sunday?
+18. They were all raving about the oil painting.
+19. His jokes had us all laughing.
+20. We are going for an outing at the park on Saturday.
+21. He keeps saying that he is going to take up jogging and exercising very
+soon.
+22. Carol will be turning 18 on Wednesday.
+23. The salad comes with your choice of dressing.
+24. We were not pleased with the ruling.
+25. I am hoping that I do not have to take the typing class.
+26. We should go ice skating at the pond.
+27. When can we go dancing?
+28. I am going shopping at the mall on Thursday.
+29. I am very tired after driving for so long.
+30. Our bowling team is on a winning streak.
+31. Did you see her swimming in the lake?
+32. Can you hear the popping sound?
+33. She has been sitting at the typewriter all day long.
+34. Did you get a passing grade on your exam.
+35. We are going to go fishing this Saturday.
+36. The lining in her coat is torn.
+37. I am hoping that I will get a good job when I finish school.
+38. Please feel free to ask any questions that you may have.
+39. It is unusual to see her crying.
+40. No, sir, I was not at the shooting.
+41. Why have you been so upset?
+42. We will stay at the park until it gets dark.
+43. When can you pay off your account with the loan company?
+44. Do you consider her to have good credit?
+45. Can her dog be lapping the water up?
+46. The ailing man is in pain and feeling quite weak.
+47. Do you have any particular plans for Monday morning?
+48. We will meet with the financial expert on Wednesday evening.
+49. How will you finance the loan?
+50. Will it be convenient for you to be here to stay the evening?
+51. When will it be possible to meet with your accountant.
+52. They are having financial problems at this particular time.
+53. Her EKG is set for Thursday morning.
+54. I am meeting with M.J. Gilbert on Friday morning to discuss some financial
+matters.
+55. We were advised by the correspondent to watch the new show on NBC this
+evening.
+56. I will meet with you at your convenience.
+57. Did you recognize her?
+58. A new day is upon us.
+59. How can that even be possible?
+60. The convenience store owner was robbed at gunpoint this evening.
+61. We will contact you upon receipt of your payment.
+62. Even now she is not finished with the job.
+63. Diana can be very particular about what she eats.
+64. Is it possible for you to finance the home loan at this particular time?
+65. Many of them came upon it at the very same time.
+66. We recognize this might not be a convenient time for you.
+67. Jess is considered to be a financial wizard by his peers.
+68. Did the count come out even?
+69. She needs advise about her finances.
+70. Even though it seems impossible we will give it a try.
+71. We listen to KFRG each morning on the way to school.
+72. We found it impossible to get a room at the YMCA.
+73. Can you even recognize him now that he is dressed up?
+74. Upon the advise of the correspondent we will order you the necessary
+financial information.
+75. Can you believe how much fun we had at the concert?
+76. Cate is so cheerful that she is even in a good mood in the morning.
+77. John S. Chatman, Chatman, will be here today.
+78. I will meet R.C. great house, Greathouse, at the shopping mall today.
+79. Greg M. Laggerman, Laggerman, lives at 1422 Blackwood Lane.
+80. Her phone number is 639-1181.
+81. I will be moving to 303 Cambridge, Cambridge.
+82. How long have you known Bryce Z. Baumgardner, Baumgardner?
+83. Do you correspond with Tatum F. Anderson, Anderson?
+84. Our CPA is Sam Jackson, Jackson.
+85. Mona V. Henderson, Henderson, works at the IST company.
+86. Charlene F. Guchman, Guchman, is a CSR and an RPR.
+87. Wipe the smudge off that pane of glass.
+88. The convenience store was robbed this morning.
+89. The morning sun is very bright.
+90. You should watch the CBS news tonight.
+91. Have you remembered all your briefs tonight?
+92. We are taught not to be inconsiderate.
+93. I am suggesting that you practice four or five hours each day if you can.
+94. It is good to learn accounting so that you can do your own taxes.
+95. She is very helpful in her job at the advertising company.
+96. He was very unsatisfied with the results of his exam.
+97. The letter remained unopened until it was convenient for her to open it.
+98. He can be so inconsiderate at times.
+99. She works at an accounting firm downtown.
+100. He was uninformed and had to ask many questions.
+101. Even though I would like to be with you this evening, I will not be able to
+make it.
+102. We may have possible trouble.
+103. Do you have a particular question that you would like to ask?
+104. She is a financial success.
+105. That particular job is unnecessary at this time.
+106. I am hoping that it will be possible to finance the new car.
+107. Do you think it will be possible for you to catch up on all of your
+necessary correspondence this evening?
+108. Take the necessary steps this evening to complete the job.
+109. Even now she is not finished with it.
+110. Do not forget to bring your receipts when returning your purchases to the
+store.
+111. If you feel like talking give me a call at 649-2036.
+112. Her name is Sarah L. Harris, Harris.
+113. Rachelle Herbert, Rachelle Herbert will be speaking at the meeting tonight.

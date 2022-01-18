@@ -1,0 +1,229 @@
+begin, Wyoming, uh-huh, territory, further, responsible, behind, Rhode Island,
+huh-uh, influential, anxious, Texas, three-quarters, one-tenth, four-sixths
+
+1. I've, I'll, I'd, I'm,
+2. you've, you'll, you'd, you're,
+3. we've, we'll, we'd, we're,
+4. he's, he'll, he'd,
+5. she's, she'll, she'd,
+6. they've, they'll, they'd, they're,
+7. it's, its, there's, theirs,
+8. that's, what's, when's, where's,
+9. who'll, that'll
+
+1. When's a good time to go? Where's the meeting to be held?
+2. What's her married name? That'll be the day.
+3. I hear you've broken theirs. Do you know where you've put it?
+4. Call me when you've found theirs. Who'll be the one to answer the call?
+5. You'll forget that fiasco. I think you'll appreciate it.
+6. You'll be fantastic in the part. You'd be much too gullible.
+7. I should think you'd be tired. You'd have to be a nomad.
+8. You're candid about the affair. He said you're a pariah.
+9. You're the best actress here. They've been in trouble before.
+10. They've never found enough time. I think they've already left.
+11. It's the length that's in question. The dog chased its own tail.
+12. It's to be a week from Sunday. I said I'll have the time.
+13. I'll see you in September. I'll find some way to help.
+14. I'd be glad to fix it. You knew I'd want to go.
+15. I'd like to send it express. I've been here before.
+16. I know I've seen it already. I've finished the book.
+17. I'm too late to assist. I'm very sorry about the loss.
+18. Charles said that's okay. They'd lost four races.
+19. I know they'd eaten at noon. They'd left before we did.
+20. They'll never make it on time. Do you think they'll be there?
+21. They'll transmit until midnight. We've enough time to audit it.
+22. Do you think we've hurt anything? We've adapted to the program.
+23. We'll make the trip this summer. Do you think they'll be there?
+24. We'll try to appease them. We'd gone to the beach.
+25. We'd already asked for it. He said we'd been there.
+26. He'll extol your virtues. I think he's doing a good job.
+27. He'll make a good guard. There's nothing to the rumour.
+28. Do you think there's time? There's danger in glare ice.
+29. She'll have no trouble with it. I know she's happy for you.
+30. She'll receive an invitation. She's always wanted a pony.
+31. I thought she'd left before. She'd always been my mentor.
+32. We're cold and hungry. He said we're too late to go.
+33. We're going to avoid it. He's already apologised.
+34. He'd fought for his rights. You said that he'd gone.
+
+1. He said that he thought -- he really thought that to be true.
+2. I am sure that it was Ted -- Tom who won the contest.
+3. It must be my -- your turn to dry the dishes.
+4. I believe -- I am confident that he will arrive on time.
+5. He always buys the regular -- the premium gasoline for his car.
+6. We gave him $525 -- $550 for the ring.
+7. I can't believe -- I can't believe that it actually happened.
+
+1. agent, agency, boulevard,
+2. America, American, automobile,
+3. authorise, authority, authorisation,
+4. juror, jury, identify,
+5. evidence, evident, evidently,
+6. error, emergency, damage,
+7. certificate, actual, actually,
+8. determine, describe, description,
+9. hospital, et cetera
+
+1. authority, agent, America, boulevard, automobile,
+2. authorise, American, agency, juror, identify,
+3. jury, authorisation, damage, certificate, determine,
+4. emergency, hospital, et cetera, error, describe,
+5. actually, description, evidence, actual, evident,
+6. boulevard, jury, American, damage, hospital,
+7. determine, et cetera, agency, authority, juror,
+8. actually, evident, emergency, authorisation, America,
+9. identify, agent, evidence, describe, error,
+10. authorise, automobile, certificate, actual, description,
+11. evidently, jury, determine, hospital, et cetera,
+12. American, authorise, identify, error, actually,
+13. boulevard, agency, evident, emergency, describe,
+14. authority, jury, America, agent, evidently,
+15. damage, authorisation, certificate, evidence, automobile,
+16. description, actual, jury, American, America,
+
+1. He is acting as an agent. The agency was authorised to act.
+2. Did the agent act accordingly? He ratified the act of the agent.
+3. When was America discovered? She sang about America.
+4. We drove all over America. America is a large country.
+5. He was an America hero. The American diet is poor.
+6. He is a proud American. The American plan includes meals.
+7. The boulevard needs repair. The boulevards are full of shops.
+8. Stroll down the boulevard. The boulevards are wide.
+9. Mr. Lerner is our agent. The company has agents there.
+10. The agent wrote a receipt. How many agents do we have?
+11. We have six agencies. The agency has the account.
+12. Which agency did you choose? Many agencies use our service.
+13. I cannot authorise this cheque. Will you authorise it?
+14. Authorise the purchase order. Who authorised this?
+15. He is the authority on plants. Who gave him the authority?
+16. Is he really an authority? I need authorisation on the account.
+17. Who authorises these bills? Is he authorising payment?
+18. Where is the authorisation? The authorisation is late.
+19. I have the authorisations. The authorities will be here.
+20. Where are the authorisations? Authorities differ on it.
+21. The automobile had damage. Describe the automobile, please.
+22. I was a juror in the actual case. Did you get picked as a juror?
+23. He suffered brain damage. The hospital had damage from the storm.
+24. What hospital did you go to? Go to the emergency at the hospital.
+25. It was an actual emergency. Did you authorise the emergency?
+26. I actually have a certificate. You actually have to qualify for the loan.
+27. The certificate had an error on it. I received a certificate of completion.
+28. It was evident and clear. They will determine if it was an error.
+29. He made it evident to us. Evidently, they made an error.
+30. The jury was in recess. They had a hung jury.
+31. Will you identify the person? We need to determine who was at fault.
+32. I can describe the suspect. How would you describe the location?
+33. Is there enough evidence? The evidence was tainted.
+34. Please bring food, drinks, et cetera. I will bring toys, crafts, books, etc.
+35. The description wasn't clear. She gave a detailed description.
+36. I was at the actual scene. Do you have the actual original?
+
+1. One of us has won the prize. Is the puppy a male?
+2. He needs to hoist the sail. The outlet store is having a sale.
+3. Do you really believe that tale? We just got the tail of the storm.
+4. They are putting in a new light pole. Take the poll to test its popularity.
+5. He threw the ball through the window. His name was first on the list.
+6. Make a cast of the footprint. Have the dentist check for a cavity.
+7. You could add a room in the loft. He had a strong reflex action.
+8. It is a reflection of his ability. Send the document to us by fax.
+9. The idea is quite complex. Use the cream for a smooth complexion.
+10. Which section has the information? The book is in the fiction section.
+11. He has a lot of zeal for the game. Seal the document and send it now.
+12. The new car zipped along the highway. Take a sip of the herb tea.
+
+---
+
+BY MR. DUFF:
+	Q	Miss Jensen, you were asked about the cash receipts of the four stores.
+Would you say that the sales figures were an accurate summary of the sales
+figures that were shown on the cash reports that came to you by email?
+	A	Yes, sir, I would.
+	Q	Miss Jensen, will you tell us who kept the printed copies of the merchandise
+records in your office?
+	A	I kept a copy of the printed merchandise records in my office.
+	THE COURT:  Miss Jensen, it is important that you speak up nice and loud so
+that the court reporter is able to hear everything that you say.
+	THE WITNESS:  Oh, yes, I am sorry, your Honor.
+	THE COURT:  That is okay.
+BY MR. DUFF:
+	Q	All right. Now, where did you keep the copy of the printed merchandise
+records?
+	A	They were kept in a special file.
+	Q	Did Mr. Webster or Mr. Henderson have access to those records?
+	A	They would have had access to them but they never looked at them while I was
+there.
+	Q	Did Mr. Jefferson have access to them also?
+	A	Yes, sir.
+	Q	Did they ever look at them while you were there?
+	MR. POTTER:  Objection. Ambiguous.
+	THE COURT:  Sustained. Rephrase your question, Mr. Duff.
+BY MR. DUFF:
+	Q	Did Mr. Jefferson ever look at the records while you were there?
+	A	Not while I was there, no, sir.
+	THE COURT:  How long were you with the company, Ms. Jensen?
+	THE WITNESS:  I was with the company for a little more than three years.
+BY MR. DUFF:
+	Q	What time did you start to work in the morning?
+	A	I worked from 9:00 to 5:00 most days. Occasionally, I worked on Saturday
+from 9:00 to 12:00.
+	Q	Did you ever leave before Mr. Webster and Mr. Henderson left?
+	A	Yes, sir, but most of the time I would leave after they had gone.
+	Q	Who closed up the office?
+	A	Mr. Rogers did.
+	MR. POTTER:  Was he also an employee?
+	THE WITNESS:  Yes, sir.
+BY MR. DUFF:
+	Q	Did he also have access to the merchandise records?
+	A	Yes, sir.
+
+---
+
+1. Where's the fire?
+2. He said he'd do it.
+3. That's the only one.
+4. They knew we'd do it.
+5. He's the first one in line.
+6. She hadn't been gone long.
+7. You said you'd be on time.
+8. She'll begin the experiment tomorrow.
+9. He'll give you some advice if you need it.
+10. It's an unusual circumstance.
+11. What's the meaning of this?
+12. He said he wouldn't do it.
+13. She's not coming to your house.
+14. She doesn't know what's going on.
+15. They're working on our advertising campaign.
+16. When's it convenient for you to be here?
+17. Isn't he the one whose house was robbed?
+18. We're hoping you'll do it for us.
+19. She said she'd come so we'll stay.
+20. They've gone and they'll not be back.
+21. We're the ones who'll be going.
+22. Shouldn't you go to the fair?
+23. Haven't you had enough time to do that?
+24. Wasn't it that dog that bit your hand?
+25. They're the ones who did it, aren't they?
+26. I'll tell her that you've got other things to do.
+27. I'm going to their house.
+28. It's been a long time since we've gone dancing.
+29. She'll be late if she can't get her car started.
+30. You're the one who hasn't been there before.
+31. They weren't fooling around when they said we'd have fun.
+32. He'll have to sue her.
+33. Where's the financial information I requested earlier?
+34. The automobile wouldn't start.
+35. I drove down the boulevard.
+36. The juror was part of the jury.
+37. Can you identify the agent?
+38. The agency will authorise it.
+39. He was an American citizen.
+40. He has authority in America.
+41. Her certificate gave her authorisation.
+42. Will you determine the damage?
+43. Describe the emergency.
+44. She gave an error about the description.
+45. The evidence was actually lost.
+46. We gave the dog cookies, food, water, et cetera.
+47. Evidently he was in the hospital.
+48. Was that the actual day?
+49. It was evident and clear to us.

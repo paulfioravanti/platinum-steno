@@ -1,0 +1,278 @@
+analyzing, practice, swirl, speculate, largest, stamina, present, evaporate,
+girl, reply, reputation, charge, understand, vegetable, subject,
+
+1. subtle, fickle, sickle,
+2. settle, cattle, muddle,
+3. pickle, castle, title,
+4. wiggle, hustle, bustle,
+5. wrestle, tussle, muscle,
+6. battled, heckled, trickled,
+7. rattles, paddles, cradles,
+8. tackling, bottling, huddling,
+9. rustling, muzzling, sizzling
+
+1. They are raising cattle. Pick up a load of cattle feed.
+2. He will try to muddle through. Joe is a muddle-headed kid.
+3. Put the kettle on to boil. Fill up the tea kettle.
+4. Tommy is really in a pickle. Get both dill and sweet pickles.
+5. Call a huddle to decide it. Huddle together to keep warm.
+6. We won the battle for freedom. That was a famous battle cry.
+7. Don't heckle the singer. Bud is heckling his friend.
+8. There is just a trickle. Leave just a trickle running.
+9. Hustle, or you will be late. Please tell Carla to hustle.
+10. You will have to wrestle with it. I am still wrestling with it.
+11. Take title in your own name. He will move to quiet title.
+12. Put it in a larger bottle. Bertha saves antique bottles.
+13. What is that rattle in the car? The loose nut is rattling.
+14. Paddle your own canoe. They paddled the boat to the shore.
+15. There was quite a tussle over it. They are tussling on the lawn.
+16. Flex your muscles. They say Pete is a muscle man.
+17. Get out and rustle up business. I think he is rustling cattle.
+18. You must muzzle your dog. Where did you put his muzzle?
+19. It has a subtle meaning. You weren't very subtle about it.
+20. Grace is extremely fickle. Don't be so fickle about it.
+
+1. apple, topple
+2. rippled, supple,
+3. cripple, grappling,
+
+1. There was a ripple on the lake. There were ripples on the surface.
+2. Watch that it doesn't topple over. The statue toppled off the stand.
+3. A flat tire could cripple it. He was crippled for life.
+4. Keep the leather supple. His muscles were supple.
+5. Was he grappling with the bear? He grappled with the puzzle.
+6. People should eat apples. Mom is fixing apple fritters.
+7. Look out for a triple play. He was tripling his money.
+8. He had an apple orchard. The wind rippled the water.
+
+1. table, sable, dribble,
+2. rifle, baffle, trifle,
+3. stifle, able, Bible,
+4. shuffle, sniffle, nibble,
+5. gobble, foible, truffle,
+
+1. Don't stifle his talent. I felt stifled in my job.
+2. The rifle was left in the tent. He rifled the throw.
+3. He wobbled as he walked. It wobbled on the edge.
+4. They are a troubled people. Trouble is brewing.
+5. Those people baffle me. The note was baffling.
+6. It is a trifle more. It was a trifling matter.
+7. Eat at the table. The motion was tabled.
+8. Send it by cable. We cabled for money.
+9. Nibble on the truffle. Read the Bible.
+10. Are you able to shuffle the cards? Don't gobble up the food.
+11. Her foible was evident. Dribble the ball.
+
+1. dimpled, ample,
+2. samples, simple
+3. pimple, rumpling,
+4. temple, example,
+5. crumple, trample
+
+1. We have ample food. Send me the samples.
+2. It is not so simple. She has cute dimples.
+3. Her chin is dimpled. We sampled the candy.
+4. He is simpleminded. Her clothes were rumpled.
+5. Set a good example. Don't crumple the paper.
+6. We will go to the temple. The dog will trample you.
+7. It is simple math. The teenager had a pimple.
+
+1. proper, property,
+2. record, report,
+3. important, importance,
+4. investigate, investigation,
+5. merchandise, inquire,
+
+1. proper, investigate, practical, record,
+2. report, investigate, important, property,
+3. merchandise, importance, inquire, proper,
+4. investigation, important, record, property,
+5. practice, proper, merchandise, investigate,
+6. report, importance, inquire, record,
+
+1. The proper form is necessary. Exercise proper decorum.
+2. The pleading was properly drafted. You must be properly dressed.
+3. His behaviour was improper. It was improperly made.
+4. The investigation is improper. It was improperly drafted.
+5. Important matters were covered. Good attendance is important.
+6. The quality is important. It is important to check it.
+7. I acknowledge the importance. The importance must be questioned.
+8. We recognize his importance. Don't you see the importance?
+9. You must inquire about taxes. Susan inquired about it.
+10. He inquires about everything. Please answer the inquiry.
+11. Please report any trouble. Have you read the latest report?
+12. The report will be ready today. I have the investigation report.
+13. He reported the investigation. The reports are not here yet.
+14. He is always reporting late. Who reported the fire last night?
+15. Somebody should investigate. There was a lot of investigating.
+16. The report was investigated. He investigates every report.
+17. Ship the merchandise this week. Can we pick up the merchandise?
+18. Please take the merchandise back. Check the merchandise over.
+19. The property is not for sale. We are studying real property.
+20. That is my own property. The property is in disrepair.
+21. Is there any record of the sale? You must keep a proper record.
+22. Record each sale in the cash book. Did you record his pulse rate?
+23. He is recording a new record. That is now a hit recording.
+24. We recorded the sale last June. She records every investigation.
+
+1. abrupt, adopt,
+2. concept, disrupt,
+3. kept, wept,
+4. slept, erupt,
+5. apt, rapt,
+6. corrupt, script,
+7. dwell, dwelling,
+8. dwindle, dwindled,
+9. dwelt, dweeb,
+
+1. John was an apt pupil. He paid rapt attention.
+2. Don't disrupt the class. It was a new concept.
+3. His face had a rapt expression. Do you think it is corrupt?
+4. He made an abrupt stop. Why don't we adopt the plan?
+5. Don't dwell on the point. He dwelt there all his life.
+6. Oil surplus is dwindling. There was a dwelling there.
+7. He dwelled on it too long. The stockpiles will dwindle.
+8. She dwells in marble halls. Her cash dwindled on the trip.
+9. He is such a dweeb. She slept in the dwelling.
+
+---
+
+	THE COURT:  Will you tell us your name and spell it for the record, please.
+	THE WITNESS:  Hazel P. Kerr, K-e-r-r.
+BY MR. STPHAO:
+	Q	Are you married, ma'am?
+	A	Yes, sir.
+	Q	How old are you?
+	A	I am 21.
+	THE COURT:  Don't be nervous.
+	THE WITNESS:  I am not nervous.
+BY MR. STPHAO:
+	Q	Mrs. Kerr, you are the wife of the defendant, Mark Kerr?
+	A	Yes, sir.
+	Q	All right. Where did you live on October 24, 2017?
+	A	I lived at 3386 Forest Avenue.
+	Q	Now, did you see Mr. Kerr leave the house on that day?
+	A	Yes, sir, I did.
+	Q	About what time?
+	A	About 2:30.
+	Q	All right. Thank you, Mrs. Kerr. I have no further questions at this time.
+	THE COURT:  Mr. Cook, do you have any questions?
+	MR. EUFPLT:  Yes, your Honor, I do.
+BY MR. EUFPLT:
+	Q	Mrs. Kerr, did your husband take anything with him when he left?
+	A	Yes, sir.
+	Q	Okay. What did he take with him?
+	A	He had a bag with a suit in it. He was going to the tailor shop.
+	Q	What color was the suit if you remember?
+	A	The suit was black.
+	Q	Did you see anything else in the bag?
+	A	Nothing else.
+	MR. EUFPLT:  May we take a quick break?
+	THE COURT:  Yes, we can take a quick break.
+
+---
+
+1. Did you ever settle the feeble argument with your brother?
+2. Mom keeps the pickles in a large glass bottle on the table.
+3. Will you please take the muzzle off the dog?
+4. She was befuddled by the riddle.
+5. I will have a triple scoop of chocolate ice cream.
+6. The apple toppled off the table.
+7. He had trouble settling the $1500 debt.
+8. Did you put the rattle in the cradle?
+9. Her cheerful personality caused most people to like her instantly.
+10. It was just another typical day at the castle.
+11. She is so fickle that she is bound to be single for life.
+12. The players were in a huddle in the middle of the field.
+13. I have a simple and practical way to tackle the problem.
+14. The large antique ornament tripled in value.
+15. Minimal effort was needed to tackle the puzzle.
+16. The criminal was convicted of smuggling.
+17. To settle land, you must have clear title.
+18. The gentleman with the muscles is popular with her sorority.
+19. The saddle fell into the puddle.
+20. Ladle the soup and paddle the boat.
+21. It was quite a struggle to get free from the brutal strangler.
+22. She looked dazzling in her formal evening gown.
+23. Give the baby with the dimples a bottle to save your sanity.
+24. The riddle will addle your mind.
+25. Whittle your little boy a rattle.
+26. Many people like to eat truffles.
+27. The charge of murder baffled us.
+28. Many people now recycle things that they used to throw out.
+29. Do you really argue the need to practice every day?
+30. It was a major achievement to settle the argument.
+31. The teacher's assignment left us all puzzled.
+32. The cattle followed to the castle.
+33. The sudden motion caused a ripple effect in the water.
+34. Will you please iron the rumpled tablecloth?
+35. Did you see the muscle man make a triple play?
+36. I urge you to keep the rifle under the table.
+37. He had to rustle up some business for the manufacturer.
+38. He lived in solitude at the castle.
+39. Ted gave Marge a subtle subtle hint when he whispered in her ear.
+40. The twin antique bottles were beautiful.
+41. Her reputation at the office was somewhat baffling.
+42. It was so hot that the pavement was sizzling.
+43. Her bubbly personality caused most people to like her instantly.
+44. Do not mumble when you are trying to speak.
+45. The quarterback fumbled the ball and lost the game.
+46. You should enquire about the investigation.
+47. Compatibility is important.
+48. Do you know who owns the property next to the mall?
+49. Will you please put the merchandise on the table.
+50. It is very important that you practice every day.
+51. Is a trip even feasible now?
+52. Will you have Mr. Little's report ready by 5:00 today?
+53. You should always adopt the proper plan for building speed.
+54. Investigate the proper method.
+55. We will present the outstanding achievement award.
+56. We shall inspect the beach property today at 6:30 p.m.
+57. All the merchandise shipped to you in February was sent on a COD basis.
+58. It is important to be organised.
+59. The business property sold for a hefty $28 million.
+60. Did you make the necessary adjustment on the invoice?
+61. I don't think the show starts until 8:00 o'clock.
+62. The officers' investigation of the crime came to an abrupt conclusion.
+63. Will you please put the ping-pong paddle on the table?
+64. Proper exercise is very important for building strong muscles.
+65. May I sample the chocolate truffles?
+66. Do you understand the importance of the rules?
+67. It is important that we have all the details about the accident.
+68. Was Mr. Farmer, F-a-r-m-e-r, present at the investigation?
+69. Set a date at your earliest convenience.
+70. Do not question the importance of tackling the chore promptly.
+71. Record the financial information.
+72. Mabel's sable coat is beautiful.
+73. She is a successful court reporter.
+74. The FBI will investigate the crime.
+75. A dozen will be under $20.
+76. Take advantage of the sale.
+77. She did a beautiful job on her report.
+78. We will attempt to investigate the problem as soon as possible.
+79. He paid $642,000 for the house.
+80. We are looking for the perfect piece of property on which to build our dream
+home.
+81. The merchandise will sell well.
+82. I will advise the expert.
+83. We will go south in October.
+84. I shall order the usual.
+85. The invoice was improperly filled out.
+86. Did you enquire when the merchandise will be delivered?
+87. Was Dad upset about Paul's report card?
+88. Did you record the test scores?
+89. Put Mrs. Carson's letter in the correspondence file.
+90. Ryan broke the all-time batting record.
+91. What is the best and most practical way to finance the property.
+92. Did you pay the proper amount?
+93. Record the financial information.
+94. She was full of anxiety before arriving at her new job.
+95. Those people brought their new case to court.
+96. Be sure to wear the proper garment.
+97. His behaviour disrupted the class.
+98. Ned has the option to purchase the property located at 1025 Oak Tree Lane.
+
+Douglas Know, K-n-o-w, 3349 Dwight Avenue.
+Ronald R. Newton, N-e-w-t-o-n, 5185 Norwood Lane
+Rebecca J. Newton, N-e-w-t-o-n, 5402 Peacock Lane
+Sally M. Pemberton, P-e-m-b-e-r-t-o-n, 2851 Cadina Drive

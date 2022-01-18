@@ -1,0 +1,212 @@
+ boat, what, doll, where, bore, about,
+she, do, shore, which,
+
+nail, nil, null, nod,
+nor, net, note, knob,
+meal, mop, mad, met,
+mess, meat, me, mat,
+
+the mat, the mob, a mate, the net, the mace,
+a nip, the maze, the mess, a mill, the nag,
+the mug, a nap, the nod, the mass, a mop,
+to mug, the mare, a mole, to mar, to nap,
+to mail, to nab, to miss, to nag, to mope,
+to note, to mug,
+
+The mare is a nag. The mare was a nag.
+Where is the mug? He will mug her today.
+He will mail the note. I will mail the note.
+The mutt is to nap. The mutt is to nap today.
+The knob will nail Ned. The mob will nail Mel.
+Mop the mat. Nate will mop the mat.
+Matt will nail the mob. Nate will nail the mob.
+Ned will mail the letter. Nate will mail the letter.
+
+stair, stare, mail, male,
+hail, hale, hair, hare,
+bail, bale, sail, sale,
+pail, pale, tail, tale,
+pair, pare, pear,
+poll, pole, roll, role,
+doe, dough, made, maid
+
+The dog has a big tail. Tell us the sad tale.
+The cat had no tail. Did you hear the tale?
+He ate the roll. What is the role he has?
+The cat would roll in the hay. She has a role in the show.
+Mail the letter. Pat is a male.
+Is the letter in the mail? What male would mop it up?
+He was less pale today. The mud is in the pail.
+Tess was pale. Lug the pail to Bob.
+Rob will stare at you. Show Pat where the stair is.
+The dog would stare at the bug. Where is the stair?
+Ned will hail the cab. What a hale lad Bob is.
+It will hail today. The hale lad will put it.
+He will show it at the sale. Will you sail today?
+The sale is at the shop. The ship will sail.
+The pair had a date. To pare is to cut.
+The pair had a spat. He will pare the pear.
+The pole was in the store. What did the poll show?
+It was a big pole. I know the poll will help.
+He has red hair. The hare was in the race.
+Pet the doe. Knead the dough.
+I will pay the bail. Where is the bale of hay?
+She made the bed. The maid made us laugh.
+I made a bad bet. Kay made it up to her.
+
+in, in a, in the,
+some, any, ask,
+help, month,
+consider, consider
+
+in, what, some, when, any, which,
+help, where, month, about, what, consider,
+letter, in, today, some, letter, any,
+open, ask, did, help, credit, month,
+where, credit, which, month, consider, about,
+
+The mutt is in her shed. It was in her letter. Was it a hole in her coat?
+She has some credit. Some are a mess. Some company will sell.
+The month was up. Tell us which month. He has a month to pay.
+Note any map. Mail any letter. Ship any coat.
+Ask her to mail it. Will you ask his boss? Ask the kid to mop it.
+Help her to map the maze. Remember to help her. He has to help in some way.
+He has bad credit. What was his credit? Credit the bill when I pay it.
+Will you consider it? Consider the company. Did he consider the mare?
+You are in a mess. He was in a rut. We were in a hole.
+Put the letter in the mail. The bait is in the shop. Help her in the shop.
+
+star, stop, stiff, stir, stat, stub,
+step, still, stole, staff, store, state,
+stale, stab, stag, stay, stuff, stud,
+
+She was the star. Stop at a store. What is the state?
+He stole the stuff. The staff will step up. He will stub his toe.
+Stir the pot. Credit the staff with it. The step is still low.
+He shot the stag. The stuff is stiff. Ned is a star.
+He will pay more. He will pay more to the store.
+The stair is low. Nail up the stair.
+Hit the nail. Hit the nail in the keg.
+Were was the mess? Where was the mess to mop up?
+He may ship it. He may ship the stuff. He may ship the stuff to me.
+Stop at his store. Stop at his store to pay. Stop at his store to pay me.
+Pay in a month. Pay it in a month. Pay the bill in a month.
+Consider the way. You consider the way. You consider a way to ship.
+
+---------
+
+Let her open the mail.
+2. He met me at the mill.
+3. Did you mope about the loss?
+4. Mail the letter to the company when you are at the pub.
+5. Let the mutt nap.
+6. Did the lad nod his head at the lass?
+7. Do you eat meat?
+8. He is with the mob.
+9. Mop up the mess when you can.
+10. Did the dog nip her nose?
+11. Where did you put the note?
+12. Which car did you race?
+13. When can you be at the hut?
+14. Eat a hot roll with the meat.
+15. What did you do with the letter?
+16. Remember to tell Nate about the boat race.
+17. When will the lad laugh?
+18. The shell is wet.
+19. She will nod her head.
+20. Her nose is red today.
+21. Nell had a red wig to sell.
+22. What more can the company do about it?
+23. Sop up the mess with a mop.
+24. We will eat meat when we sup.
+25. Wear a coat to the show.
+26. Where did you put the map?
+27. Will you pay the bill to the company today?
+28. Ned was mad at his boss.
+29. The dog will wag his tail at you.
+30. What can he do with his big cat?
+31. Did you mail the letter to Ross?
+32. We will eat a hot meal at the hut today.
+33. Did he remember to tell you about the show?
+34. Nell is a big nag.
+35. Will you pay the toll today?
+36. Her dog is a mutt.
+37. Cate will pay the tab today.
+38. The company could sell you a share.
+39. He met me at the late show.
+40. Can you tow the boat with the car?
+41. Did he stare at you?
+42. I will pair the pare.
+43. Tell the tot a tale.
+44. The coat sale is today.
+45. The dog would wag his tail at you.
+46. Did you pay the toll?
+47. Ray made Pat laugh.
+48. Will Ray remember to pay the maid today?
+49. He will tell you a tale about the mob.
+50. He has a male cat.
+51. Ted is a hale lad.
+52. She has a male boss at the company.
+53. I will mail the letter today.
+54. We will hail a cab.
+55. The ape is up a pole.
+56. Did you stare at the waif?
+57. Eat a hot roll with us.
+58. Where is the maid?
+59. What did the hole show?
+60. Did he tell you the tale about the big bear?
+61. The pear has a date at the pub today.
+62. Bess is pale today.
+63. The map is near the stair.
+64. She will put the shell in the pail.
+65. The dog would stare at the bug.
+66. The pup made a big mess.
+67. Will she cut her red hair?
+68. Did you hear the cat purr?
+69. He will eat a pear today.
+70. Show her where the stair is.
+71. Is it a male cat?
+72. Can you hear the hail hit the pail?
+73. We will sail the boat at the sea today.
+74. The deaf lad can cope with it.
+75. Did Rob rob the store?
+76. Mail the letter to the male boss.
+77. Did he stare at the star?
+78. Which pail is his pail?
+79. The sea is so rough today.
+80. Roll up her wet hair.
+81. Did you stare at her?
+82. The top stair is wet.
+83. He will sail his ship at the sea.
+84. Sal made the maid mad.
+85. Put the mutt in the shed.
+86. Ask her to open the letter.
+87. Which company will sell it to you?
+88. Ask her about the mess.
+89. He has some stuff to sell.
+90. Will you be at the show today?
+91. Can you help her with her credit.
+92. Credit it to the company.
+93. Could any boat tow the load?
+94. Ask her about the tot
+95. Some say he will consider it.
+96. Did you stay a month with the company?
+97. Will you help her sew the coat?
+98. Did he ask her to help you with the mess?
+99. Ask Matt to help you put the car in the shed.
+100. Can I help you in some way?
+101. Did you step in the mess?
+102. Ask Ted about the stuff in the shed.
+103. Which coat is her coat?
+104. When did she stub her toe?
+105. Will you help me with the credit?
+106. Ask Ned where he put the letter.
+107. Any company can sell a share to Abe.
+108. Were you to pay the bill to the credit company?
+109. Did you ask her when she stole the car?
+110. Which month can you pay the tab?
+111. Where did Ross put the map?
+112. Will you be at the shore today?
+113. When will you be at the store?
+114. Open the note, or Ted will be mad.
+115. Did you consider the race boat?

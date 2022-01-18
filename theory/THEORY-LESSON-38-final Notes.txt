@@ -1,0 +1,263 @@
+noxious, New York, department, precious, ordinary, Missouri, vivacious,
+Mississippi, appreciation, delicious, opposite, conscious, spacious, North
+Dakota, tenacious,
+
+1. artificial, commercial,
+2. controversial, credential,
+3. crucial, differential,
+4. facial, glacial,
+5. impartial, inferential,
+6. judicial, nuptial,
+7. potential, presidential,
+8. prudential, racial,
+9. residential, sacrificial,
+10. sequential, social,
+11. special, substantial,
+12. torrential, beneficial,
+13. official, confidential,
+14. preferential, influential,
+15. exponential, initial,
+16. partial, spatial,
+17. martial, prenuptial,
+
+1. They put in artificial grass. His inferential thinking helped him solve it.
+2. We need to rent a commercial building. He specialises in commercial real
+estate.
+3. That is a controversial topic. Do not be impartial to any side.
+4. She has a credential to teach. She gave me a glacial stare.
+5. It is crucial that you go. Did you get a facial at the salon?
+6. What is the differential? They have their own judicial system.
+7. They said their nuptial vows. The business has potential for growth.
+8. When is the presidential election? They gave it prudential consideration.
+9. The racial comment caused an uproar. It is in the residential part of the
+town.
+10. Do you belong to a social club? A sacrificial offering was given.
+11. Follow the sequential steps. We have a special program for you.
+12. That is a substantial amount of water. It will be beneficial to everyone.
+13. The torrential rains caused flooding. It is a confidential issue.
+14. What is the official score? Do not give preferential treatment.
+15. You are an incredibly influential person in my life. Please initial the
+form.
+16. A partial payment was made. The exponential function was hard to solve.
+
+1. He attends U.C.L.A. He reported it to the FDA.
+2. I listen to KFI every night. I gave it to Z.X. Davis.
+3. We used G.E. light bulbs. The doctor ordered a IV.
+4. What was the NLRB ruling? Mr. W.Z. Nelson called.
+5. Tune in to station KNX. Send it to the P.O. box.
+6. The box came C.O.D. When will the FTC rule on it?
+7. Listen to Station WFNX in Boston. The A.B.A. has some new rules.
+8. Ted joined the I.O.O.F. The FAA ordered an inspection.
+9. AC current is alternating. Did you pay your A.M.A. dues?
+10. Have you joined N.R.C.A.? Mark those A, B, and C.
+11. I got an A in the course. Mr. J.P. Morgan is here.
+12. The coin was marked 48 B.C. He was assigned to a PT boat.
+13. The G.N.P. is up from last month. DC current is direct.
+14. Fill out the form and mail it to the IRS. She got the kitten at the S.P.C.A.
+
+1. Oregon, Pennsylvania,
+2. Rhode Island, South Carolina,
+3. South Dakota, Tennessee,
+4. Texas, Utah,
+5. Vermont, Virginia,
+6. Washington, West Virginia,
+7. Wisconsin, Wyoming,
+
+1. He struck oil in Texas. We went skiing in Vermont.
+2. They raise sheep in Wyoming. Virginia is in the United States.
+3. It snows in Utah and Wyoming. Wisconsin is a dairy state.
+4. We moved to South Carolina. Utah is the Beehive State.
+5. Rhode Island is a small state. He mind coal in West Virginia.
+6. He has a lumber mill in Oregon. They grow cotton in Tennessee.
+7. Virginia is near South Carolina. It rains a lot in Washington.
+8. Mount Rushmore is in South Dakota. Valley Forge is in Pennsylvania.
+
+1. territory, member,
+2. memorandum, memoranda,
+3. influence, influential,
+4. minimum, maximum,
+5. result, photograph,
+6. respond, response,
+7. responsible, responsibility,
+8. previous, previously,
+9. United States,
+
+1. influential, United States, territory, response, minimum,
+2. United States, influence, responsibility, respond, memorandum,
+3. photograph, previous, responsible, memoranda, United States,
+4. member, response, United States, result, territory,
+5. influence, respond, memorandum, responsibility, photograph,
+6. minimum, previous, response, influential, territory,
+7. United States, responsible, memoranda, influential, result,
+
+1. The territory was opened in 1896. Don't invade his territory.
+2. My territory covers the South. The territories are not large.
+3. He is working one territory. What are my territory rights?
+4. We have only until tomorrow. If only you had tried harder.
+5. There are only a few choices. Whose responsibility is it?
+6. The crew is my responsibility. Take responsibility for errors.
+7. He has many responsibilities. The responsibilities are heavy.
+8. Don't shirk responsibilities. Write a memorandum.
+9. The memorandum is here. Who wrote this memorandum?
+10. Where are the memoranda? The memoranda are here.
+11. File the memoranda. Please respond out loud.
+12. Did you respond immediately? Respond by the end of the day.
+13. Ted always responds slowly. We responded immediately.
+14. Help by responding at once. Who is the responsible party?
+15. John is responsible for it. I believe Tom is responsible.
+16. What was your response? His response was curt.
+17. Did you read their response? How many responses did you get?
+18. The responses came in late. We received 346 responses.
+19. Did that influence the vote? You should influence him.
+20. The mayor was influential. We need somebody who is influential.
+21. The moon influences the tides. Who is influencing you?
+22. The photograph is beautiful. Will she take our photograph?
+23. How much is each photograph? Put the photograph in a frame.
+24. I am a member of the club. What do you have to do to become a member?
+25. This is for members only. You must respond to become a member.
+26. There is a minimum limit of two. There is a minimum number of orders.
+27. Is there a minimum age limit? I have a minimum of ten dolls in my hutch.
+28. There is a maximum amount. Is there a maximum number of people allowed?
+29. We had the maximum limit. The result came in yesterday.
+30. What did the result say? She was waiting on the test result.
+31. I was in the previous class. She had a previous date.
+32. Previously, the group went in. I was there previously.
+
+1. lords, hordes,
+2. guards, birds,
+3. swords, cards,
+4. fords, herds,
+5. cords, curds,
+6. wards, yards,
+7. nerds, words,
+8. backwards, westwards,
+9. landlords, lovebirds,
+
+1. The bards sang ballads. The birds woke her up.
+2. You need two more yards. They headed towards the town.
+3. Do you play cards? They crossed their swords.
+4. How many guards are there? They are wards of the court.
+5. The guards caught the thief. We have owned five Fords.
+6. The lords and ladies danced. There were hordes of ants.
+7. Those are words of wisdom. The old cords were destroyed.
+8. Put boards across the ditch. Beards are in fashion.
+9. They are lovebirds. The landlords raised the rent.
+10. Can you skate backwards? She headed in a westward direction.
+11. The nerds met at the library. Did you practice those words for the test?
+
+---
+
+	THE COURT:  Please state your name for the record.
+	THE WITNESS:  Annie Kendall.
+	THE COURT:  Please spell your name for the record.
+	THE WITNESS: A-n-n-i-e K-e-n-d-a-l-l.
+	THE COURT:  Thank you, Ms. Kendall. Counsel, you may question.
+	MR. POST:  Thank you, your Honor.
+BY MR. POST:
+	Q	Ms. Kendall, after the robber left the store, what did you do?
+	A	What did I do?
+	Q	Yes.
+	A	I ran to the owner's home which is attached to the store. I told him what
+happened.
+	Q	And then what did you do?
+	A	He called the police.
+	MR. DALLY:  I object. Non-responsive to the question.
+	THE COURT:  The objection will be sustained. Ma'am, just answer the question
+that counsel asks you.
+	THE WITNESS:  All right.
+	THE COURT:  Counsel, you may proceed.
+	MR. POST:  All right, your Honor.
+BY MR. POST:
+	Q	Where did you go?
+	A	I was standing in the store then.
+	Q	Did other customers come in?
+	A	Yes, but I didn't take care of them.
+	Q	How about the two boys that were in the store? Did they remain there?
+	A	Yes, they did.
+	MR. POST:  I have no further questions at this time.
+	THE COURT:  Counsel, you may question.
+BY MR. DALLY:
+	Q	Did you talk to those two boys about what had happened?
+	A	Not until the police officers came.
+
+---
+
+1. Did John and J.D. study for the WKT?
+2. The AT&T building is 10 miles west of here.
+3. Doctor R.B. Morse is a member of the A.M.A.
+4. I hope to put $20,000 into my I.R.A. account this year.
+5. The list of M.I.A.s and P.O.W.s is much too long.
+6. The alphabet begins with ABC and ends with XYZ, with a medial LMN.
+7. Since his D.U.I. conviction, Mike has been extremely cautious and sober.
+8. The F.B.I. and the C.I.A. spy on people in the U.S.S.R. and the U.S.A.
+9. Four radio stations are K.N.E.W., K.G.O., K.B.A.Y., and K.O.M.E.
+10. We work for N.B.C., department 2XK on the 2nd floor.
+11. The G.M.C. factory is at 8343 H&I streets.
+12. P.D.Q. means "pretty damn quick".
+13. P.S.A. gets you there with a smile.
+14. The BofA gives one credit, and an A.T.M. gives one cash.
+15. AT&T no longer gives you a line for a dime.
+16. A.S.A.P. means "as soon as possible".
+17. We listen to K.Y.U.U., K.L.O.S., K.S.A.N., and K.F.O.G.
+18. AT&T and T-Mobile have your number.
+19. C.T.A., AFofL, the C.I.O., and U.A.W. are unions.
+20. Three television networks are N.B.C., A.B.C., and C.B.S.
+21. J.F.K. was president of the U.S. in the 1960s.
+22. A.C.D.C. is current.
+23. The A.A.A. will haul your B.M.W. to the M.J.W. garage at 321 S. Street.
+24. The A.B.C. paint company is located at 4345 F. Street.
+25. A.A. and the A.A.U. are organisations.
+26. Does this fit the criminals usual M.O.?
+27. It is as easy as A.B.C.
+28. The K.G.B. and the C.I.A. are international G-Men.
+29. They own 50 acres of property in Oregon.
+30. Why does he live in Maryland?
+31. How far is it to Pennsylvania?
+32. We have a lot of family in Wisconsin.
+33. The shipment was sent from the South Carolina office to the Virginia office
+last week.
+34. How long have you lived in Rhode Island?
+35. The coal miners are from West Virginia.
+36. The plane will leave South Dakota at 4:50 p.m. on March 13 2020.
+37. It rains too much in Washington.
+38. She sounds like she comes from Tennessee.
+39. I hear that the skiing is good in Vermont.
+40. I would like to own an oil well in Texas.
+41. She built a beautiful new home in Utah.
+42. Henry Shiplee lives in Washington D.C.
+43. Send the merchandise directly to Harley Hauser in Pittsburgh, Pennsylvania.
+44. I will correspond with my cousin, Frank Niddle, in Wisconsin.
+45. John Eubanks lives in Salt Lake City, Utah.
+46. Dr. Frederick Washington completed his dental training in Texas in 2012.
+47. Scott Tyson went to college in Wyoming before moving to Arizona.
+48. The letter was sent from Lloyd Shaffer in Nashville, Tennessee.
+49. Clyde Painter will give a presentation at the N.C.R.A. seminar in Vermont
+next month.
+50. Dorothy Robinson is from West Lake, Oregon.
+51. Please deliver the message to Laurie Dawson in Mapleville, Rhode Island.
+52. Samuel Kincaid grew up in Virginia.
+53. We met Roger Olsen in West Virginia.
+54. Send a memorandum to James Young in Orlando, Florida.
+55. Technical difficulties were responsible for the delay.
+56. Please respond A.S.A.P.
+57. Sal's territory covered a 40-mile radius.
+58. Send the memorandum to them.
+59. Where did Mr. Emerson's secretary file the memoranda for the superintendent?
+60. You shouldn't let anyone's opinion influence your decision.
+61. I only did it because she said to do it.
+62. Ms. Brown's response was eagerly anticipated.
+63. She was very influential in my decision to go back to school.
+64. He was unable to fulfil his civic responsibilities.
+65. I am glad that I am not the only one who has to do it.
+66. You need to take responsibility for your actions.
+67. What was the response to the poll?
+68. Did he respond promptly?
+69. The report said that he was under the influence of alcohol at the time of
+the collision.
+70. Are you a member?
+71. What is the maximum amount?
+72. There is a maximum limit.
+73. I went to the previous game.
+74. Previously were you a member?
+75. The United States is a wonderful country.
+76. Take the photograph.

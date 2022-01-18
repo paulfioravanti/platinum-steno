@@ -1,0 +1,301 @@
+boys, think, keys, question, fights, budges, they,
+roses, needs, written,
+
+1. tilted, viewed, faded,
+2. tossed, raided, panted
+3. slanted, passed, laughed,
+4. judged, loved, hoped,
+5. wished, tamed, matched,
+6. reached, faced, teased,
+7. pitted, shaded, salted,
+8. bolted, darted, patted,
+9. loaned, fished, sagged,
+10. stacked, hugged, paired,
+11. prayed, mapped, fainted,
+12. hunted, rented, towed,
+13. wilted, nodded, hinted,
+14. sated, tanned, weaved,
+15. pinned, robbed, stuffed,
+16. played, washed, shunned
+
+1. They waved to us. Joe passed by the store. She patted the kitten.
+2. He traced the stolen loot. Visit the haunted house. We missed the train.
+3. We planted roses this summer. He kissed her on the head. We all prayed for
+rain.
+4. His car was towed to the shop. He teed up his ball. They showed the new
+slides.
+5. They played ball in the winter. The boys vied for the prize. We viewed the
+rainbow.
+6. Robert teased his sister. He padded the account. He tried to win the game.
+7. Her mom nodded at her to go. I should have traded the car. My son used the
+car.
+8. The company raised the rate. They raided the gin mill. The bones were fused.
+9. She laughed at the bad joke. The company is well staffed. They stuffed it in
+the closet.
+10. She saved to buy the new home. He dived in and saved her life. He huffed and
+puffed.
+11. Bob raved about the new play. The stuff was piled up high. It hailed hard
+for a time.
+12. He failed to stop for the light. The boys rowed to the shore. She vowed not
+to go.
+13. The ice cream melted in the sun. The bed sagged in the center. We stayed
+many days.
+14. They tugged at the coil of rope. Ray mocked her bad manners. John hugged his
+mom.
+15. The bird would not be tamed. He seemed to miss her. He hooked a big fish.
+16. The faucet leaked too much. They looked at each brook. He was judged to be
+right.
+17. They paged him at the hotel. The company staged a play. See that the gate is
+latched.
+18. He watched for the new moon. The skirt matched her outfit. He feared for his
+life.
+19. He lured the fish with bait. The outfit was washed with soap. The fire
+seared the meat.
+20. Do you want mashed potatoes? He pushed the truck off the road. He mapped out
+the plan.
+21. Jim hoped for more tools to use. The dog lapped up the water. She rubbed her
+arm with oil.
+22. Has your store been robbed? The princess sobbed and sobbed. He was pinned to
+the mat.
+23. The starfish sunned on the rock. The high wind fanned the fire. They booked
+the flight.
+
+1. 57, 49, 68, 39, 29, 50, 34, 89,
+2. 12, 27, 23, 46, 38, 13, 37, 58,
+3. 14, 30, 45, 78, 26, 15, 24, 67,
+4. 16, 20, 56, 48, 25, 17, 40, 28,
+5. 18, 35, 47, 69, 10, 19, 36, 59,
+6. 91, 85, 66, 97, 42, 75, 63, 86,
+7. 77, 54, 92, 76, 99, 64, 51, 95,
+8. 87, 74, 80, 55, 94, 73, 84, 52,
+9. 65, 71, 53, 62, 83, 72, 96, 82,
+10. 93, 44, 81, 98, 88, 61, 60, 70,
+
+1. Trade for 38 lots. He sells to 45 stores. He painted 41 houses.
+2. Joan is 26 today. He ate 68 salted peanuts. Jane will be 31 on Friday.
+3. He caught 74 passes. It is 96 miles to Denver. You have to be 18 to go.
+4. We won 87 to 69. It was 12 feet to the corner. We got 13 doughnuts.
+5. The tower is 97 feet high. It is 50 feet in the air. Use 20 tons of rock.
+6. The score was 17 to 14. They won the game by 52 points. He will sell 93 sets
+to us.
+7. The company sent us 64 baskets. Take 16 of them with you. They had 79 fires
+this year.
+8. He has 13 lots for the company. He will sell 27 pies at the fair. It is 72
+miles to town.
+9. She has 15 dolls. The score was 25 to 30. He is 35 years old.
+
+1. those, these, thought, then, thin,
+2. than, thick, them, though, thud,
+3. thug, thief, theme, thus, thunder,
+4. thoughtful, thoughtless, thaw, thee, thus,
+5. thong, thorn, thumb, thigh, throw,
+6. third, theft, thing, thyroid, that,
+7. gold, meld, sold, bald, weld,
+8. bold, fold, told, old, cold,
+9. scald, hold, mold, wild, held,
+10. guild, mild, field, veld, sild,
+11. auld, world, wield, child, yield,
+12. scold, shield, unfold, foretold, outfield,
+
+1. Those keys are mine. File these papers. Joe has more than I do.
+2. I will although I hate to. Did you hear a thud? The thug has a beard.
+3. What did the thief take? Liz is very thin now. Take them to the store.
+4. What is your thought? The stew is too thick. She wrote a good theme.
+
+5. Thus I will try to write. She was very thoughtful. That was very thoughtless.
+6. What is the theme? Thaw out the meat. Did you hear the thunder?
+7. She is in the third grade. Do not step on the thorn. My thumb is broke.
+8. He has thick hair. The thong is on my foot. The thunder is loud.
+9. Sell the gold locket. We sold the paint. The engine is very old.
+10. Fold the letter. I told him to sell. Will you weld the pipes for me?
+11. The winter is very cold. The steam will scald you. The old man is bald.
+12. Hold the stock for us. The mold is too big. The fox is wild.
+13. It is too cold to swim. The guild met on Monday. He held a towel to his
+head.
+14. That was a bold move. Yield to the traffic. Hit the ball to the outfield.
+15. The child is wild. Shield her from the sun. He will scold them.
+16. We will sail around the world. The weather is mild. It will scald you.
+
+a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
+abcdefghijklmnopqrstuvwxyz
+
+1. Marge Jones, J-o-n-e-s
+2. Ron Miller, M-i-l-l-e-r
+3. Diane Fetzer, F-e-t-z-e-r
+4. Fred Alverez, A-l-v-e-r-e-z
+5. Martin Block, B-l-o-c-k
+6. Jane Agren, A-g-r-e-n
+7. Sam Cantrell, C-a-n-t-r-e-l-l
+8. Chris Flanders, F-l-a-n-d-e-r-s
+9. Sharon Quake, Q-u-a-k-e
+10. James Saige, S-a-i-g-e
+11. Tim Rentz, R-e-n-t-z
+12. Carl Pickens, P-i-c-k-e-n-s
+13. Adam Ortega, O-r-t-e-g-a
+14. John Rigg, R-i-g-g
+15. Kait Flynn, F-l-y-n-n
+16. Marla Mears, M-e-a-r-s
+
+1. J-o-e spells Joe.
+2. His name is Robert, R-o-b-e-r-t.
+3. Do you spell her name C-a-t-h-y or K-a-t-h-y?
+4. Douglas spells his name D-o-u-g-l-a-s.
+5. Her name is Tara, T-a-r-a.
+6. Give the receipt to Edna, E-d-n-a.
+7. Z-e-l-m-a is the way she spells her name.
+8. Ray Calvin, C-a-l-v-i-n, is her teacher.
+9. Diane is spelled D-i-a-n-e.
+10. Does he spell his name S-e-a-n or S-h-a-w-n?
+11. Cora Fernandez, F-e-r-n-a-n-d-e-z, is her name.
+12. M-a-x-w-e-l-l spells Maxwell.
+13. Do you know Lee Fox, F-o-x?
+14. His name is Alfred, A-l-f-r-e-d.
+15. Take the credit information to Karen Kerr, K-e-r-r.
+16. F-e-l-i-x spells Felix.
+17. Is her name spelled T-y-s-o-n?
+18. Give the book to Glen Carlson, C-a-r-l-s-o-n.
+19. He works at the Bennett, B-e-n-n-e-t, Company.
+20. T-y-s-z-k-a is the way he spells his name.
+21. Her name is Bertha Valdez, V-a-l-d-e-z.
+22. He spells his name P-o-i-n-t-e-r.
+23. Jacob, J-a-c-o-b, is his name.
+
+---
+
+1. The clock is smashed.
+2. The cars are not waxed.
+3. She is so talented.
+4. The back door is bolted shut.
+5. The cat is curled up in the quilt.
+6. Do they know what caused the fire at the old warehouse?
+7. They laughed at the clown with the wilted flowers in his hat.
+8. Who called the cops?
+9. He was relieved when he passed the quiz.
+10. I asked her if it scared her.
+11. I would have stayed at the beach if the rain would have stopped.
+12. Tess nodded her head yes.
+13. Our team scored a goal.
+14. They walked to the ice cream shop to get a scoop of vanilla ice cream.
+15. I hope they are not too confused.
+16. The bride tripped on her train.
+17. Jim advised us to keep up on our correspondence.
+18. Josh says the deck of cards was stacked.
+19. He has been indicted for fraud.
+20. They conducted a campaign to help clean up the streets.
+21. The local market was robbed at midnight.
+22. The cop showed us his badge and shield.
+23. Have you paid the bill yet?
+24. Mike said he had expected to fail the exam.
+25. We looked at some new ways to save up some cash.
+26. His friends grinned when he played the crude joke on his dad.
+27. They have two dogs and three cats.
+28. It snowed for four days in a row.
+29. The flag flapped in the wind.
+30. He hired help at the company.
+31. They hoped they would get more help.
+32. The phone number to the new business is 781-3214.
+33. We waited in line to buy the concert tickets for six hours.
+34. He filed the papers in the wrong file.
+35. He spurned her for help.
+36. Jay fished for trout at the lake.
+37. The boss warned Steve he would be fired if he was late one more time.
+38. They played pool at the pub on Friday nights.
+39. We tried to get her to go to the game with us.
+40. The roads are flooded and we are stranded.
+41. Do you have the receipts for your purchase of the toys?
+42. They skated for hours.
+43. Her salon business is closed on Mondays.
+44. She completed all the questions on the exam in less than ten minutes.
+45. I washed and rinsed all the dishes.
+46. He wished he had not loaned her his new sports car.
+47. We were all excited for her when she told us that she had passed the state
+exam.
+48. The ice in her iced tea melted in the hot sun.
+49. We wondered where they had gone.
+50. He ordered a hamburger and a soda.
+51. Some months have 30 days and some months have 31 days.
+52. He will be 23 in a few days.
+53. We found 12 errors on his paper.
+54. Her phone number is 634-1219.
+55. She lives at 2547 Oak Tree Lane.
+56. The top of the dresser is 42 by 21.
+57. They cut 35 ribbons for the event.
+58. Kim wrote a 47-page report for her science class.
+59. Lesson 19 starts on page 50.
+60. We will need 17 bags of concrete.
+61. Pam should be here in 20 minutes.
+62. They hired 41 new waiters.
+63. Is your phone number 731-6624 or 731-6642?
+64. The kitchen is 14 feet by 20 feet.
+65. 65 runners will run in the race on Wednesday.
+66. He wrote 13 books by the time he was 30 years of age.
+67. Kara will be 14 on Tuesday.
+68. Drop off the package at 4358 Lambert Street.
+69. Yesterday the score was 89 to 98.
+70. He lived to be 99 years old.
+71. Did you sell the 54 books?
+72. Do you know Robin Foster, F-o-s-t-e-r?
+73. Her name is Kim Tate, T-a-t-e.
+74. Send the information to Liz Dahlstrom, D-a-h-l-s-t-r-o-m.
+75. Do not open the letter for Ken Clark, C-l-a-r-k.
+76. Joyce Cline, C-l-i-n-e, works at the phone company.
+77. Our teacher is Linda Thomas, T-h-o-m-a-s.
+78. Alice Perez, P-e-r-e-z, lives at 5023 Grove Street.
+79. The phone number for Bess Fox, F-o-x, is 760-2114.
+80. They will interview Jason Quinn, Q-u-i-n-n, today at noon.
+81. Sam Heller, H-e-l-l-e-r, is the correspondent.
+82. I love to eat salted peanuts when I go to a baseball game.
+83. He teased her until he made her cry.
+84. Where can I get my typewriter repaired.
+85. She had her hair weaved at the hair salon.
+86. The hunters hunted for deer and rabbit.
+87. The gentleman called to tell her that he would be late for the date.
+88. May we go to the haunted house on Saturday?
+89. Jack teased his sister and wife.
+90. The rubber raft had a hole which caused the air to leak out.
+91. He was asked to judge a scholarship pageant on Friday.
+92. She feared that her nightmare would come true.
+93. Janice answered all the questions on the questionnaire.
+94. Were you paged when you went to the hotel?
+95. They stalked out the crime scene.
+96. He hugged and kissed her.
+97. We laughed when we saw the old dog walk.
+98. She looked so tanned after her day at the beach.
+99. The stuffed bear tore at the seams.
+100. She loved to watch the waves roll in.
+101. She could not answer question 23.
+102. The company advertised the big sale on page 15.
+103. If you add 27 and 72, you will get 99.
+104. It is predicted to be 91 today.
+105. They have ten gentlemen on the baseball team.
+106. Those were the good old days.
+107. She caught a mild cold.
+108. He failed to hold on.
+109. We were appalled when they appealed to us.
+110. They told us to buy gold.
+111. She was spoiled by the bald old man.
+112. The thin man was the thief.
+113. He smiled when asked to shield the field.
+114. It is hard to define a thingamajig.
+115. Bring a thermos to the thicket.
+116. They have been through thick and thin.
+117. You will be thrilled when you earn some gold.
+118. Do you have a sore throat?
+119. Your rose has thorns.
+
+Karen Bell, B-e-l-l
+Dennis Harrison, H-a-r-r-i-s-o-n
+Linda Grant, G-r-a-n-t
+Walter Coleman, C-o-l-e-m-a-n
+Brenda Griffen, G-r-i-f-f-e-n
+Carl Knight, K-n-i-g-h-t
+Anne Spencer, S-p-e-n-c-e-r
+Mike Valdez, V-a-l-d-e-z
+Jill Guzman, G-u-z-m-a-n
+Roger Yates, Y-a-t-e-s
+Christian Copeland, C-o-p-e-l-a-n-d
+Dan Monroe, M-o-n-r-o-e
+John Webber, W-e-b-b-e-r
+Nan Bookman, B-o-o-k-m-a-n
+Helen Lynn, L-y-n-n
+Chris Hunter, H-u-n-t-e-r

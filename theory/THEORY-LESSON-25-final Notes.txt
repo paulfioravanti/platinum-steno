@@ -1,0 +1,270 @@
+cork, death, mother, every, neither, their, also, weird,
+brother, already, truth, always, clothes, health, quirk,
+
+1. easier, easiest,
+2. happier, happiest,
+3. heavier, heaviest,
+4. busier, busiest,
+5. luckier, luckiest,
+6. merrier, merriest,
+7. serial, cereal,
+8. aerial, radio,
+9. onion, studio,
+10. union, helium
+11. furrier, stadium,
+12. curious, genius,
+13. furious, humiliate
+14. ingredient, aquarium,
+15. bacteria, studious
+16. pneumonia, congenial,
+17. interior, soviet
+18. alleviate, custodian,
+19. radius, expedient,
+20. cranial, brilliance,
+21. retaliate, adverbial,
+22. mysterious, ulterior,
+23. historian, infuriate,
+24. cafeteria, amphibian,
+25. radio, deviate,
+26. anterior, Brazilian
+27. amnesia, ammonia,
+28. psychiatric, piteous,
+29. trivial, devious,
+30. curio, pictorial,
+31. arterial, alleviation,
+32. remedial, colonial,
+33. curia, communion,
+34. audience, delineate,
+35. affiliation, delirious,
+36. copious, delirium,
+37. cornea, artesian
+38. brilliant, bacterial
+39. Arabian, copier,
+40. dominion, exterior
+41. media, cardiac
+42. resilient, Indian
+43. radiance, radiant,
+44. lenient, recipient,
+45. premium, burial,
+46. librarian, accordion,
+47. stallion, medium,
+48. period, affiliate,
+49. hernia, trivia,
+50. phobia, arterial
+51. mediate, retaliate,
+52. infuriate, abbreviate,
+53. jovial, podium,
+54. helium, guardian,
+55. battalion, rebellion,
+56. companion, reunion,
+57. onion, scorpion,
+58. radiation, retaliation,
+59. abbreviation, polio,
+60. patio, exterior,
+61. inferior, savior,
+62. dubious, hideous,
+63. tedious, studious,
+64. precarious, hilarious,
+65. glorious, victorious,
+66. curious, furious,
+67. rebellious, obedient,
+68. recipient, luxurious
+
+1. This is an easier test. Play the easier course.
+2. Which is the easiest way? This route is the easiest.
+3. Is he any happier today? Are you happier than Jim?
+4. She is the happiest girl. Who is the happiest of all?
+5. This one is heavier than that. Which carton is heavier?
+6. Which one is the heaviest? The wooden crate is heaviest.
+7. The circus has an aerial act. The aerial tram opens at noon.
+8. This found he was a carrier. The company is a freight carrier.
+9. I read the serial every week. Do you watch the serial?
+10. Eat the cereal. The cereal is loaded with sugar.
+11. The radio has a new tuner. We need a new clock radio.
+12. I am luckier than I can believe. Robert is luckier than I am.
+13. This must be my luckiest day. Who is the luckiest one here?
+14. Meet me at the studio. Which studio do you work for?
+15. Did you say he was a furrier? The furrier has the coat for you.
+16. Are you really serious? I am serious about it.
+17. Are you going to join the union? He makes union wages now.
+18. She was furious at the new plan. He will be furious when he hears.
+19. They say Einstein was a genius. He rated as a genius on the scale.
+20. The ball is filled with helium. Helium is lighter than air.
+21. The new stadium will be huge. We will play in the stadium.
+22. He is busier today. Is Ryan busier than Tim?
+23. Who is the busiest one? This is the busiest warehouse.
+24. Climb up the canyon wall. Have you seen the Grand Canyon?
+25. That is an ingenious plan. Your suggestion is ingenious.
+26. The kitten is curious. Why are you so curious?
+27. The fur is very luxurious. She lives a luxurious life.
+28. That is just trivia. Trivia can be a lot of fun.
+29. Will you peel the onion for me? Peeling an onion makes me cry.
+
+1. somebody, someone, something,
+2. everybody, everyone, everything,
+3. anybody, anyone, anything,
+4. nothing, nobody
+
+1. anybody, someone, nothing, minute,
+2. sufficient, somebody, something, everyone,
+3. nothing, someone, everybody, everything,
+4. someone, general, everything, nobody,
+5. anything, anyone, another, something,
+6. everything, anything, something, nothing,
+7. everyone, anyone, someone, nobody,
+8. everybody, anybody, somebody, secretary
+
+1. Ask anyone that you can. Does anybody know the answer?
+2. Did you find anybody? Anybody can learn that.
+3. Ask anyone that you can. Does anyone know the answer?
+4. Did you find anyone? Anyone can learn that.
+5. Did you find out anything? Do anything you can for her.
+6. Did you find anything wrong? Have you heard anything yet?
+7. Somebody must have the key. Does somebody know the answer?
+8. Did you find somebody? Somebody will come to the rescue.
+9. Someone must have the key. Does someone know the answer?
+10. Did you find someone? Someone will come to the rescue.
+11. Pay something on the account. Give her something for a gift.
+12. Something is not right here. Tell me something about it.
+13. Everything is not lost. He did everything for her.
+14. Put everything away now. Everything will turn out all right.
+15. Tell everyone about the sale. Everyone should read that book.
+16. What is everyone else doing? Everyone has something to offer.
+17. I saw nobody with him. Nobody is ready to assist.
+18. It is one nobody wants. Nobody listened to him.
+19. Tell everybody about the sale. Everybody should read that book.
+20. What is everything else doing? Everything has something to offer.
+21. Nothing is going right today. There is nothing he can do.
+22. He has nothing to do with it. There is nothing here to eat.
+23. No one called us today. I saw no one watching the house.
+24. No one can do anything for her. No one is at home right now.
+
+1. ring, rang, rung, sing, sang, sung, song,
+2. lung, long, hung, hang, sling, slang,
+3. bang, bong, dang, fang, gong, ding,
+4. dung, tong, king, thong, fling, sting,
+5. harm, alarm, farm, storm, term, firm,
+6. worm, germ, form, dorm, arm, perm,
+7. norm, warm, swarm, charm, sperm, affirm,
+8. squirm, berm, disarm, deform, reform, earworm,
+
+1. Ring the bell for help. She sang at the concert.
+2. It has been a long time. Hang the picture there.
+3. The bullet pierced his lung. Put his arm in a sling.
+4. You should have a fling. I know he is wrong about it.
+5. The bird had a lame wing. I wish I were king.
+6. Were you stung by the bee? He flung it out the window.
+7. It wouldn't do any harm. That is good farm land there.
+8. His arm is broken. Are you warm enough?
+9. He works on a farm. Use a firm touch.
+10. She lived in the dorm. Did you fish with a worm?
+11. What is the norm? He has a term of five years.
+12. Who is the schoolmarm? What germ caused the illness?
+
+---
+
+1. This is the busiest time of the year.
+2. The union was serious.
+3. His behavior was awful.
+4. The box with the power tools is heavier.
+5. That is known to be a dubious drug.
+6. We did various finger drills before class each day.
+7. She was furious because she had lost her receipt and couldn't get a refund
+from the company.
+8. I feel sleepier now than I did before I took a nap.
+9. She is the brainiest girl in our class.
+10. This cake has the creamiest, yummiest frosting I have ever tasted.
+11. He is pulling the heavier of the two loads.
+12. These rolls are much crustier than the earlier batch.
+13. It is the rainiest, foggiest day we have had this year.
+14. We went to the stadium to watch the baseball game.
+15. It is easier to have cereal for breakfast in the morning.
+16. Mom says you should keep the volume of your stereo or radio turned down.
+17. You should always take every lesson seriously.
+18. Gather up all the China and put it away in the curio chest.
+19. Those who seem luckiest are usually the ones who work the hardest.
+20. Did you see which dog it was that bit our mail carrier's leg.
+21. Do you know the easiest way to chop an onion.
+22. Will you advertise on the radio or on T.V.?
+23. He helped us inflate the 75 helium balloons for the party.
+24. She studiously stayed at her books, tediously studying for her exams.
+25. The serial killer was convicted on all charges.
+26. Ted would rather take the easier path.
+27. What is the easiest way to mail these folders?
+28. The amnesia victim could remember only trivial facts.
+29. That brilliant young comedian is the funniest I have seen in years.
+30. The doctor ordered Valium to ease her pain.
+31. She firmly refused to deviate from her diet.
+32. Give the cashier the money.
+33. He seems happier than I have ever seen him.
+34. The audience clapped loudly at the end of the brilliant performance.
+35. He paid a premium to get the best seats in the stadium for the game.
+36. The audio system doesn't seem to be working properly.
+37. She studiously stayed at her books, tediously studying.
+38. I have nothing to say to you today.
+39. Something is in the way.
+40. Does anyone have the right time?
+41. Everybody will meet at the stadium at 7:00 o'clock.
+42. Does anybody know anything about that?
+43. Nobody has taken number 57.
+44. Somebody said fruit is good for everybody.
+45. Is there anybody there?
+46. We know he will steal anything.
+47. She thinks she knows something about everything.
+48. Tell everybody to be ready at 3:00 o'clock.
+49. No one will be allowed to enter Daniel's house until 6:00 o'clock p.m.
+50. Please clean everything off the counter before everyone starts arriving.
+51. Nobody wanted to do the necessary work.
+52. It seems that everybody has an opinion they wish to express.
+53. Did everyone get enough to make them happy?
+54. Can somebody make a recommendation?
+55. Does anybody know of a good doctor?
+56. Somebody should see to that right away.
+57. The probe disclosed to everybody that it was a frame-up.
+58. Everyone said that somebody should do something about anything rather than
+do nothing.
+59. Do you know anything about it?
+60. She lost her ring in the sand.
+61. Please do not tear the form apart.
+62. I am aspiring to own a worm farm.
+63. The paper was adhering to the warm wall.
+64. Do you affirm that they are acquiring the money?
+65. She hurt her forearm out on the farm.
+66. He put the diamond ring on her finger.
+67. The stockings were hung by the chimney with care.
+68. Did you hear the choir sing the song?
+69. Did you bang on the alarm when it rang?
+70. They played a long game of chess.
+71. The germs caused an illness.
+72. We drove slowly through the rainstorm.
+73. She lost her sunglasses at the beach.
+74. Peg's new phone number is 980-2314.
+75. Rick's mom will be here on Tuesday, January 5th.
+76. The car's horn is loud.
+77. Have you seen Jack's project?
+78. Escrow will close on September 17th.
+79. The bird's wings are clipped.
+80. Do you know Mary Hazelwood, H-a-z-e-l-w-o-o-d?
+81. Mail the correspondence on Tuesday, March 26th by 4:00 o'clock.
+82. The dog's leash is too long.
+83. He works at the J.C. Penney company.
+84. October 31st will be on a Friday this year.
+85. That is my sister's book.
+86. Matt's dad can pick us up at 5:00 o'clock.
+87. The car's engine stalled.
+88. I prefer to walk to work.
+89. He is a deep sea diver.
+90. Can you be here by 3:15?
+91. Hutchings is spelled H-u-t-c-h-i-n-g-s.
+92. Ned's mom is an accountant.
+93. Supper will be ready by 5:00.
+94. The flower's scent is sweet.
+95. The sun's rays are very hot.
+96. Do not pull the cat's tail.
+97. Put the toys away in the toy chest.
+98. All of the students' grades were good.
+99. Are all of the girls' moms here yet?
+100. The child's room is messy.
+101. The Anderson's house is for sale.
+102. Sue's dad works for IBM.
+103. Steve's mom is a CSR.
