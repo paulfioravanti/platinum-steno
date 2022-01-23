@@ -1,0 +1,5 @@
+# Ensure that all line endings for text files are Linux/Mac OS Line Feeds.
+* text=auto eol=lf
+# Ensure that Github reports that this repo contains Markdown
+# https://twitter.com/paulfioravanti/status/1134325035030597632
+*.txt linguist-detectable=true
