@@ -40,4 +40,4 @@ dictionaries][].
 [Platinum Steno YouTube channel]: https://www.youtube.com/channel/UC-bfgyMjBdFuzhuL4Ff6XqA
 [Plover]: http://www.openstenoproject.org/plover/
 [Plover For the Record]: https://www.paulfioravanti.com/blog/plover-for-the-record/
-[Q&A dictionary]: https://github.com/paulfioravanti/steno-dictionaries/blob/main/dictionaries/q-and-a.json
+[Q&A dictionary]: https://github.com/paulfioravanti/steno-dictionaries/blob/main/dictionaries/q-and-a.md
